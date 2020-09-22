@@ -1,0 +1,42 @@
+---
+
+GENERAL:
+  experience_logs:
+    save: True
+    load: False
+    path: Reports/Logs/text_log_analysis
+
+  conversation_logs:
+    save: True
+    nlp: True
+    load: False
+    path: Reports/Conversations/text_conversation_analysis
+
+DIALOGUE:
+  num_dialogues: 1
+
+  domain: Movie
+
+  ontology_path: /Users/sure/Documents/Python/github/iaia/sigir2020-usersim/code/bot/jmrs1/Data/movies-rules.json
+  db_path: /Users/sure/Documents/Python/github/iaia/sigir2020-usersim/code/bot/jmrs1/Data/movies-dbase.db
+
+AGENT_0:
+  role: system
+
+  DM:
+    policy:
+      type: handcrafted
+
+    nlu: movie
+    nlg: movie
+
+
+  NLU:
+    nlu: movie
+
+  DST:
+    dst: movie
+
+  NLG:
+    nlg: movie
+

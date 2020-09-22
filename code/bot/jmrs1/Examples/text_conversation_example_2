@@ -1,0 +1,23 @@
+{
+    "dialogues": [
+        "SYSTEM > Welcome. How can I help you?.",
+        "USER > Yes please. Help me.",
+        "SYSTEM > Guide me. Any genres you like?.",
+        "USER > Sci-fi would be my first preference.",
+        "SYSTEM > There is a movie named \"The Fifth Element\". Have you watched it?",
+        "USER > Yes. ",
+        "SYSTEM > What do you think about this Movie?.",
+        "USER > Ummmm....liked it somehow.",
+        "SYSTEM > Thank you for your feedback. Have you watched \"Godzilla Resurgence\"? It can be a good recommendation.",
+        "USER > Can be. Who are are actors?",
+        "SYSTEM > Mark Chinnery, Shinya Tsukamoto and Atsuko Maeda have played prominent roles in this movie.",
+        "USER > and rating?",
+        "SYSTEM > The movie rates 8.2 on IMDB.",
+        "USER > tell me some action movie.",
+        "SYSTEM > Have you watched \"Swelter\"? It can be a good recommendation.",
+        "USER > genres?",
+        "SYSTEM > The genres it belongs to are action, crime, drama and thriller.",
+        "USER > okay good. Liked it. Bye",
+        "SYSTEM > Bye. Hope you liked it."
+    ]
+}

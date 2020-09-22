@@ -1,0 +1,25 @@
+{
+    "dialogues": [
+        "SYSTEM > Welcome. How can I help you?.",
+        "USER > Yes. I would like some action movies.",
+        "SYSTEM > There is a movie named \"Digimon: The Movie\". Have you watched it?",
+        "USER > Watched it.",
+        "SYSTEM > Can you give a review on this movie?.",
+        "USER > It was slow. Not the type I wanted.",
+        "SYSTEM > Thank you for reviewing the movie. Have you watched \"Alex Rider: Operation Stormbreaker?\" It can be a good recommendation.",
+        "USER > No. Tell me more about it.",
+        "SYSTEM > The movie plot is about 14 year old, british, gadget, spy and training.",
+        "USER > Who acted in this movie?",
+        "SYSTEM > Some of the famous actors in this movie are Alex Pettyfer, Sophie Okonedo and Ashley Walters.",
+        "USER > Who directed it?",
+        "SYSTEM > It was directed by Geoffrey Sax.",
+        "USER > What is the rating?",
+        "SYSTEM > The movie rates 5.1 on IMDB.",
+        "USER > How long is it?",
+        "SYSTEM > It is 1 hours and 33 minutes long.",
+        "USER > When was it released?",
+        "SYSTEM > It was released in year 2006.",
+        "USER > Okay thanks. Bye",
+        "SYSTEM > Thank you, Goodbye."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dialogues": [
+        "SYSTEM > Hi. How can I assist you?.",
+        "USER > Sure",
+        "SYSTEM > Which genres do you prefer?.",
+        "USER > Horror",
+        "SYSTEM > There is a movie named \"Poltergeist\". Have you watched it?",
+        "USER > No",
+        "SYSTEM > Its genres are fantasy and horror.",
+        "USER > Give me something from crime.",
+        "SYSTEM > Have you watched \"Next Day Air\"? It can be a good recommendation.",
+        "USER > genre?",
+        "SYSTEM > Its genres are action, comedy and crime.",
+        "USER > and how long is it?",
+        "SYSTEM > It is 1 hours and 24 minutes long.",
+        "USER > when was it released?",
+        "SYSTEM > It was released in year 2009.",
+        "USER > Okay...who are the actors?",
+        "SYSTEM > Omari Hardwick, Donald Faison and Mike Epps have played prominent roles in this movie.",
+        "USER > and director?",
+        "SYSTEM > The director of this movie is Benny Boom.",
+        "USER > I would watch it. K. Thanks. Bye",
+        "SYSTEM > Thank you, Goodbye."
+    ]
+}

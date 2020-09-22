@@ -1,0 +1,3123 @@
+{
+  "1": [
+  [
+          "agent",
+          "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+          "Inquire"
+  ],
+  [
+          "user",
+          "GO",
+          "Non-disclose"
+  ],
+  [
+          "agent",
+          "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+          "Elicit"
+
+  ],
+  [
+          "user",
+          "I loved The Beauty and the Beast",
+          "Disclose"
+  ],
+  [
+          "agent",
+          "You're now in an exclusive group of .8% of users that talked about The Beauty And The Beast. I got you on a different movie. What's your favorite movie? And why?",
+          "Elicit"
+  ],
+  [
+          "user",
+          "My favourite movie is The Truman Show, because it's mind blowing",
+          "Revise"
+  ],
+  [
+          "agent",
+          "Got it. About go into the deep levels into your mind! The picks I show you were already there. Inception'ed...",
+          "Show"
+  ],
+  [
+          "agent",
+          "You should try The Best Offer!",
+          "List"
+  ],
+  [
+          "agent",
+          "There's also Flightplan!",
+          "List"
+  ],
+  [
+          "agent",
+          "You don't want to forget these! Want a message to remind you? Pick a time!",
+          "Suggest"
+  ],
+  [
+          "user",
+          "No Reminder Needed!",
+          "Interrupt"
+  ],
+  [
+          "agent",
+          "Alright, I'll try to hold my tongue ?? Want more next-gen, AI personalized movie suggestions? Tell me about a movie you love.",
+          "Elicit"
+  ],
+  [
+          "user",
+          "I like your recommendations, specially the movie The Best Offer, which is not very famous and still looks good",
+          "Note"
+  ],
+  [
+          "agent",
+          "Cool! I think you're going to enjoy your movies!",
+          "Record"
+  ],
+  [
+          "agent",
+          "If you're excited about your picks, tweet about us using @textandchill! Here's our Twitter profile: www.twitter.com/textandchill",
+          "Record"
+  ],
+  [
+          "user",
+          "by the way, the movie is for tonight",
+          "Revise"
+  ],
+  [
+          "agent",
+          "I'm pretty solid on a bunch of things so far, but not on this request. Requests like this are becoming clearer to me as we go. Maybe I'll answer it sometime in the future!",
+          "Fail"
+  ],
+  [
+          "user",
+          "Ok I need a movie for tonight",
+          "Refine"
+  ],
+  [
+          "agent",
+          "Great, let's do this! Start by giving me ONE movie you like and some reasons why. You can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+          "Elicit"
+  ],
+  [
+          "user",
+          "I like Oblivion, with tom cruise",
+          "Disclose"
+  ],
+  [
+          "agent",
+          "Got it. About to go the distance. I'll have your movie picks before the bell rings!",
+          "Show"
+  ],
+  [
+          "agent",
+          "You should try In Time!",
+          "List"
+  ],
+  [
+          "agent",
+          "Also check out Automata!",
+          "List"
+  ],
+  [
+          "agent",
+          "Don't miss out on these movies. I've curated some times to remind you of your picks. When's good?",
+          "Suggest"
+  ],
+  [
+          "user",
+          "No Reminder Needed!",
+          "Interrupt"
+  ],
+  [
+          "agent",
+          "OK! But don't go all Dory on these movies! ?? They're AI generated, ultra-personalized. Watch them to get the full magical effect.",
+          "Suggest"
+  ],
+  [
+          "user",
+          "I like the In Time suggestion",
+          "Note"
+  ],
+  [
+          "agent",
+          "Boom! I'm loving that you like your movie picks ??. Want me to give you movies to watch on Twitter? Tweet at me @ https://twitter.com/textandchill.",
+          "Record"
+  ]
+  ],
+  "2": [
+    [
+          "user",
+          "Hi",
+          "Non-disclose"
+    ],
+    [
+          "agent",
+          "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+          "Inquire"
+    ],
+    [
+          "user",
+          "Go",
+          "Non-disclose"
+    ],
+    [
+          "agent",
+          "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+          "Elicit"
+    ],
+    [
+        "user",
+        "Don Jon",
+        "Disclose"
+    ],
+    [
+      "agent",
+      "Ah! I don't take requests like that just yet! I'm learning more every day!",
+        "Fail"
+    ],
+    [
+      "user",
+      "Don jon\nI like the movie because it has romantic and raw at the same time",
+      "Expand"
+    ],
+    [
+      "agent",
+      "Really? that title? You managed to name a movie that only 1.1% of users have talked about. I am still generating AI-powered movie recs based on this film. Can you tell me about a different one you like?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Limitless\nBecause it is thrillling",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. Prepping what may feel like a magic trick. I'll make how you used to find what to watch disappear!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found Self/Less for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "I also found Lucky Number Slevin!",
+      "List"
+    ],
+    [
+      "agent",
+      "That's only half the magic! I can send you a reminder at the time of your choosing. Trust me, you don't want to forget",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Friday Evening",
+      "Note"
+    ],
+    [
+      "agent",
+      "Gotcha! I'm excited to remind you of these picks on Friday Evening \uD83D\uDE42 Like the Terminator, I'll be back...",
+      "Record"
+    ],
+    [
+      "user",
+      "tickets for this?",
+      "More"
+    ],
+    [
+      "agent",
+      "Ah! I don't take requests like that just yet! I'm learning more every day!",
+      "Fail"
+    ],
+    [
+      "user",
+      "Okay Thank you so much",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Great! I'm really excited \uD83D\uDE42. These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+      "End"
+    ],
+    [
+      "user",
+      "I dont like this one",
+      "Back"
+    ],
+    [
+      "agent",
+      "I think you should give Upgrade a shot!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out Source Code!",
+      "List"
+    ],
+    [
+      "agent",
+      "These are going to be incredible! How about a reminder so you don't forget? Choose a time below!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "I like this",
+      "Note"
+    ],
+    [
+      "agent",
+      "Ah... that title. This one's got my machine learning system in knots! I'll have AI-powered movie suggestions based on this flick soon, but for now, mind naming another movie?",
+      "Fail"
+    ],
+    [
+      "user",
+      "What is the best ever movie you suggest",
+      "Interrogate"
+    ],
+    [
+      "agent",
+      "I'm pretty solid on a bunch of things so far, but not on this request. Requests like this are becoming clearer to me as we go. Maybe I'll answer it sometime in the future!",
+      "Fail"
+    ],
+    [
+      "user",
+      "Cool",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Great! I'm really excited \uD83D\uDE42. These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+      "End"
+    ],
+    [
+      "user",
+      "Sure",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Cool! I think you're going to enjoy your movies!\n\nIf you're excited about your picks, tweet about us using @textandchill! Here's our Twitter profile: www.twitter.com/textandchill",
+      "End"
+    ],
+    [
+      "agent",
+      "Cool! I think you're going to enjoy your movies!\n\nIf you're excited about your picks, tweet about us using @textandchill! Here's our Twitter profile: www.twitter.com/textandchill",
+      "End"
+    ]
+  ],
+  "3": [
+    [
+      "user",
+      "Hello Chill.. how are you today?",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+      "Elicit"
+    ],
+    [
+      "user",
+      "I don't remember any. can you please give me a suggestion of any interesting movie?",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "I'm pretty solid on a bunch of things so far, but not on this request. Requests like this are becoming clearer to me as we go. Maybe I'll answer it sometime in the future!",
+      "Fail"
+    ],
+    [
+      "user",
+      "okay. In that case can you search for any Drama movie",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About to jump into lightspeed! I'll have your movies ready for you in a flash!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Mr. Nobody!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out Paris Je Tíaime!",
+      "List"
+    ],
+    [
+      "agent",
+      "I'm pretty solid on a bunch of things so far, but not on this request. Requests like this are becoming clearer to me as we go. Maybe I'll answer it sometime in the future!",
+      "Fail"
+    ],
+    [
+      "user",
+      "can you please search for the ratings for Mr. Nobody?",
+      "Repeat"
+    ],
+    [
+      "agent",
+      "Got it. About to go the distance. I'll have your movie picks before the bell rings!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I think you should give that title a shot!",
+      "More"
+    ],
+    [
+      "agent",
+      "These are going to be incredible! How about a reminder so you don't forget? Choose a time below!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "You took me wrong. That was not what I meant",
+      "Interrupt"
+    ],
+    [
+      "agent",
+      "That's all I got at the moment, but try one! I really think you'll like! How about another movie you like and why?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "ok. then suggest me any movie similar to Rambo",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "OK, what did you like about Rambo?\n\nYou can say things like: darkness, cool vampires, or shot beautifully",
+      "Elicit"
+    ],
+    [
+      "agent",
+      "because Rambo is an action movie.",
+      "Expand"
+    ],
+    [
+      "agent",
+      "Got it. Prepping the cue cards. If you're playing with Netflix right now, say it's Blockbuster.",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found John Wick for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out Three Kings!",
+      "List"
+    ],
+    [
+      "agent",
+      "These are going to be incredible! How about a reminder so you don't forget? Choose a time below!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Let's go with John Wick",
+      "Note"
+    ],
+    [
+      "agent",
+      "Really? Let's Go? You managed to name a movie that only 1.1% of users have talked about. I am still generating AI-powered movie recs based on this film. Can you tell me about a different one you like?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Remind me this Friday evening about the movie John Wick.",
+      "Note"
+    ],
+    [
+      "agent",
+      "Ah, I can't do specific reminder times right now! Choose one of the times above instead!",
+      "Fail"
+    ],
+    [
+      "agent",
+      "ok got it. I will do that",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Great! I'm really excited ??. These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+      "End"
+    ],
+    [
+      "user",
+      "I hope you will improve very sooner. thanks for your help. Bye",
+      "Complete-complain"
+    ],
+    [
+      "agent",
+      "Great! I'm really excited ??. These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+      "End"
+    ]
+  ],
+  "4": [
+    [
+      "user",
+      "Hello dude",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Seven. Because I like Drama mystery movies",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. Prepping the cue cards. If you're playing with Netflix right now, say it's Blockbuster.",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Mystic River!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also Predestination!",
+      "List"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Mystic River seems to be a good choice.",
+      "Note"
+    ],
+    [
+      "agent",
+      "Nice! Now tell me why you like Mystic River. Something cool is that you can be more specific than 'action' or 'story' if you'd like.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "The trailer gave me an idea that it has some mystery kind of thing going on in the movie",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. Prepping what may feel like a magic trick. I'll make how you used to find what to watch disappear!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I think you should give Source Code a shot!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also The Others!",
+      "List"
+    ],
+    [
+      "agent",
+      "You don't want to forget these! Want a message to remind you? Pick a time!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Friday Evening",
+      "Note"
+    ],
+    [
+      "agent",
+      "You got it, I'll remind you on Friday Evening. Gave a reminder to Jim Carey from Eternal Sunshine just yesterday. What a time to be alive!",
+      "Record"
+    ],
+    [
+      "user",
+      "yeah. Thanks a lot buddy. I plan to watch Source code on friday evening",
+      "Repeat"
+    ],
+    [
+      "agent",
+      "Really? Buddy? You managed to name a movie that only 1.1% of users have talked about. I am still generating AI-powered movie recs based on this film. Can you tell me about a different one you like?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "forget it",
+      "Complete"
+    ],
+    [
+      "agent",
+      "That's all I got at the moment, but try one! I really think you'll like! How about another movie you like and why?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "i mean source code",
+      "Back"
+    ],
+    [
+      "agent",
+      "Ah... when users name I Mean Source Code, I act a bit Clueless ??. Come back at me for that one some other time. What's a different movie you like, and why do you like it?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "I'm sad that you don't recognize something that you suggested already",
+      "Complete-complain"
+    ],
+    [
+      "agent",
+      "Ah! I don't take requests like that just yet! I'm learning more every day!",
+      "Fail"
+    ],
+    [
+      "user",
+      "good",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Cool! I think you're going to enjoy your movies!\n\nIf you're excited about your picks, tweet about us using @textandchill! Here's our Twitter profile: www.twitter.com/textandchill",
+      "End"
+    ],
+    [
+      "user",
+      "yes. thanks for your recommendation",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Great! I'm really excited ??. These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+      "End"
+    ],
+    [
+      "user",
+      "byr",
+      "Complete"
+    ],
+    [
+      "user",
+      "bye",
+      "Complete"
+    ],
+    [
+      "agent",
+      "OK. You're unsubscribed! If you send another message I'll assume you would like to start again.\n\n\n\nGreat! I'm really excited ??. These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+      "End"
+    ]
+  ],
+  "5": [
+    [
+      "user",
+      "Hi",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "agent",
+      "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Go",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "The Dark Night. I like all action movies",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Really? The Dark Night? You managed to name a movie that only 1.1% of users have talked about. I am still generating AI-powered movie recs based on this film. Can you tell me about a different one you like?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Do you know about Batman movie?",
+      "Revise"
+    ],
+    [
+      "agent",
+      "I'm pretty solid on a bunch of things so far, but not on this request. Requests like this are becoming clearer to me as we go. Maybe I'll answer it sometime in the future!",
+      "Fail"
+    ],
+    [
+      "user",
+      "how about Knight Rider",
+      "Revise"
+    ],
+    [
+      "agent",
+      "Gotcha... Knight Rider, right? There's only 1.8% of users that have mentioned this one. I am still generating AI-powered movie recs based on this film. Can you tell me about a different one you like?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "ok. In that case can you suggest me a movie that many people have searched for",
+      "Inquire"
+    ],
+    [
+      "agent",
+      "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try that title!",
+      "List"
+    ],
+    [
+      "agent",
+      "You don't want to forget these! Want a message to remind you? Pick a time!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "search for another movie",
+      "Similar"
+    ],
+    [
+      "agent",
+      "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Fast and Furious series",
+      "Revise"
+    ],
+    [
+      "agent",
+      "Hmmm, I haven't learned enough about TV shows to give you spot-on picks just yet. How about a movie you like and why?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "well. search for the movie Fast and Furious",
+      "Refine"
+    ],
+    [
+      "agent",
+      "OK, what did you like about Fast And Furious?\n\nYou can say things like: darkness, cool vampires, or shot beautifully",
+      "Elicit"
+    ],
+    [
+      "user",
+      "The movie is Action thriller.",
+      "Expand"
+    ],
+    [
+      "agent",
+      "Got it. About to go the distance. I'll have your movie picks before the bell rings!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I think you should give The Transporter a shot!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also The Italian Job!",
+      "List"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Sunday Afternoon",
+      "Note"
+    ],
+    [
+      "agent",
+      "Excellent! Your reminded is queued for Sunday Afternoon. Pro tip: 'Before I Go To Sleep' w/ Nicole Kidman is an under-viewed memory-based flick. Might want to check it out!",
+      "Record"
+    ],
+    [
+      "user",
+      "really?",
+      "Back"
+    ],
+    [
+      "agent",
+      "Really? that title? You managed to name a movie that only 1.1% of users have talked about. I am still generating AI-powered movie recs based on this film. Can you tell me about a different one you like?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "okies. I've got what I wanted. Bye Andchill",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Darn, you outfoxed me & And Chill. Great request, but give me a raincheck on answering!\n\n\n\nBoom! I'm loving that you like your movie picks ??. Want me to give you movies to watch on Twitter? Tweet at me @ https://twitter.com/textandchill.",
+      "End"
+    ],
+    [
+      "user",
+      "may be next time",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Really? that title? You managed to name a movie that only 1.1% of users have talked about. I am still generating AI-powered movie recs based on this film. Can you tell me about a different one you like?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "ok",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Boom! I'm loving that you like your movie picks ??. Want me to give you movies to watch on Twitter? Tweet at me @ https://twitter.com/textandchill.",
+      "End"
+    ],
+    [
+      "user",
+      "Lets go with Transporter",
+      "Revise"
+    ],
+    [
+      "agent",
+      "You're now in an exclusive group of .8% of users that talked about Lets Go With Transporter. I got you on a different movie. What's your favorite movie? And why?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Transporter",
+      "Refine"
+    ],
+    [
+      "agent",
+      "Got it. Prepping what may feel like a magic trick. I'll make how you used to find what to watch disappear!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try The Man From U.N.C.L.E.!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out Daybreakers!",
+      "List"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Suggest"
+    ],
+    [
+       "user",
+       "Sunday Afternoon",
+       "Note"
+    ],
+    [
+      "agent",
+      "You got it, I'll remind you on Sunday Afternoon. Gave a reminder to Jim Carey from Eternal Sunshine just yesterday. What a time to be alive!",
+      "Record"
+    ],
+    [
+      "user",
+      "thanks dude. Bye",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Boom! I'm loving that you like your movie picks ??. Want me to give you movies to watch on Twitter? Tweet at me @ https://twitter.com/textandchill.",
+      "End"
+    ]
+  ],
+  "6": [
+    [
+      "user",
+      "Go",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "hangover its really funny",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About go into the deep levels into your mind! The picks I show you were already there. Inception'ed...",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found Grandmaís Boy for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "Ah! I don't take requests like that just yet! I'm learning more every day!",
+      "Fail"
+    ],
+    [
+      "user",
+      "wow nice",
+      "Note"
+    ],
+    [
+      "agent",
+      "Boom! I'm loving that you like your movie picks ??. Want me to give you movies to watch on Twitter? Tweet at me @ https://twitter.com/textandchill.",
+      "Record"
+    ]
+  ],
+  "7": [
+    [
+      "user",
+      "Hi Andchill",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Notebook. I love the movie because it is one of the best classics",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About to jump into lightspeed! I'll have your movies ready for you in a flash!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I think you should give Tuck Everlasting a shot!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also Timer!",
+      "List"
+    ],
+    [
+      "agent",
+      "You don't want to forget these! Want a message to remind you? Pick a time!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Which genre does the movie Timer belongs to?",
+      "Repeat"
+    ],
+    [
+      "agent",
+      "I'm pretty solid on a bunch of things so far, but not on this request. Requests like this are becoming clearer to me as we go. Maybe I'll answer it sometime in the future!",
+      "Fail"
+    ],
+    [
+      "user",
+      "Is the movie 'Timer' a Classical one?",
+      "Repeat"
+    ],
+    [
+      "agent",
+      "You're now in an exclusive group of .8% of users that talked about Timer'a Classical One. I got you on a different movie. What's your favorite movie? And why?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Notebook. because its a classical  one",
+      "Disclose-repeat"
+    ],
+    [
+      "agent",
+      "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found In Your Eyes for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out Revolutionary Road!",
+      "List"
+    ],
+    [
+      "agent",
+      "That's only half the magic! I can send you a reminder at the time of your choosing. Trust me, you don't want to forget",
+      "Suggest"
+    ],
+    [
+      "user",
+      "show me more related movie please",
+      "Similar"
+    ],
+    [
+      "agent",
+      "I think you should give Age Of Adeline a shot!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also Tuck Everlasting!",
+      "List"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Suggesnt"
+    ],
+    [
+      "user",
+      "No Reminder Needed!",
+      "Interrupt"
+    ],
+    [
+      "agent",
+      "Alright, sounds good! I can tell your memory is spot-on anyway ?? Come talk to me for more picks. Any time, anywhere.",
+      "Suggest"
+    ],
+    [
+      "user",
+      "I think Tuck Everlasting would be the best one for tonight",
+      "Note"
+    ],
+    [
+      "agent",
+      "Got it. Prepping what may feel like a magic trick. I'll make how you used to find what to watch disappear!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found God Bless America for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "I also found Rubber!",
+      "List"
+    ],
+    [
+      "agent",
+      "That's only half the magic! I can send you a reminder at the time of your choosing. Trust me, you don't want to forget",
+      "Suggest"
+    ],
+    [
+      "user",
+      "fine.  lets go with Rubber",
+      "Note"
+    ],
+    [
+      "user",
+      "Saturday Afternoon",
+      "Note"
+    ],
+    [
+      "agent",
+      "Ah... when users name Rubber, I act a bit Clueless ??. Come back at me for that one some other time. What's a different movie you like, and why do you like it?",
+      "Elicit"
+    ],
+    [
+      "agent",
+      "You got it, I'll remind you on Saturday Afternoon. Gave a reminder to Jim Carey from Eternal Sunshine just yesterday. What a time to be alive! ",
+      "Record"
+    ],
+    [
+      "user",
+      "wow",
+      "Note-speechless"
+    ],
+    [
+      "agent",
+      "Great! I'm really excited ??. These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+      "Record"
+    ],
+    [
+      "user",
+      "thanks a lot. bye for now",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Boom! I'm loving that you like your movie picks ??. Want me to give you movies to watch on Twitter? Tweet at me @ https://twitter.com/textandchill.",
+      "End"
+    ]
+  ],
+  "8": [
+    [
+      "user",
+      "Go",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "Go",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+      "Elicit"
+    ],
+    [
+      "user",
+      "justice league i like fantacy movies",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "OK, what's a good movie with that in it? And anything else you like about it?\n\nYou can say things like: Old School because of the hilarious situations, Wolf of Wall Street for all the craziness.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "i like fantacy movies",
+      "Refine"
+    ],
+    [
+      "agent",
+      "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Hellboy!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also Mystery Men!",
+      "List"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Saturday Afternoon",
+      "Note"
+    ],
+    [
+      "agent",
+      "Great, Saturday Afternoon! Even if your next few days are 'The Hangover'-crazy, I'll make sure to have your back ??. Talk to you soon!",
+      "Record"
+    ],
+    [
+      "user",
+      "wow thanks",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Cool! I think you're going to enjoy your movies!\n\nIf you're excited about your picks, tweet about us using @textandchill! Here's our Twitter profile: www.twitter.com/textandchill",
+      "End"
+    ]
+  ],
+  "9": [
+    [
+      "user",
+      "Go",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "hangover its really funny",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About go into the deep levels into your mind! The picks I show you were already there. Inception'ed...",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found Grandmaís Boy for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "Ah! I don't take requests like that just yet! I'm learning more every day!",
+      "Fail"
+    ],
+    [
+      "user",
+      "wow nice",
+      "Note"
+    ],
+    [
+      "agent",
+      "Boom! I'm loving that you like your movie picks ??. Want me to give you movies to watch on Twitter? Tweet at me @ https://twitter.com/textandchill.",
+      "Record"
+    ]
+  ],
+  "10": [
+    [
+      "user",
+      "Get Started",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "GO",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "JUMANJI",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Aye Aye! What's your favorite thing about Jumanji?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "the story plot",
+      "Expand"
+    ],
+    [
+      "agent",
+      "Got it. About to go the distance. I'll have your movie picks before the bell rings!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I think you should give Real Steel a shot!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also Robot Overlords!",
+      "List"
+    ],
+    [
+      "agent",
+      "These are going to be incredible! How about a reminder so you don't forget? Choose a time below!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "No Reminder Needed!",
+      "Interrupt"
+    ],
+    [
+      "agent",
+      "Alright, sounds good! I can tell your memory is spot-on anyway \uD83D\uDE09 Come talk to me for more picks. Any time, anywhere.",
+      "Suggest"
+    ],
+    [
+      "user",
+      "i want from 2018 or 2019 movie",
+      "Inquire"
+    ],
+    [
+      "agent",
+      "Ah! I don't take requests like that just yet! I'm learning more every day!",
+      "Fail"
+    ],
+    [
+      "user",
+      "give me what you got",
+      "Inquire"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "i like real steel becasue of the good action",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. Prepping what may feel like a magic trick. I'll make how you used to find what to watch disappear!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found Robot & Frank for you!",
+      "Elicit"
+    ],
+    [
+      "agent",
+      "You don't want to forget these! Want a message to remind you? Pick a time!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Friday Evening",
+      "Note"
+    ],
+    [
+      "agent",
+      "Gotcha! I'm excited to remind you of these picks on Friday Evening \uD83D\uDE42 Like the Terminator, I'll be back...",
+      "Record"
+    ],
+    [
+      "agent",
+      "Cool! I think you're going to enjoy your movies!\n\nIf you're excited about your picks, tweet about us using @textandchill! Here's our Twitter profile: www.twitter.com/textandchill",
+      "End"
+    ]
+  ],
+  "11": [
+    [
+      "user",
+      "Get Started",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "GO",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Avenger Endgame i loved vfx editing and action sequence",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About to go the distance. I'll have your movie picks before the bell rings!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Hellboy!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out The League Of Extraordinary Gentlemen!",
+      "List"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Saturday Afternoon",
+      "Note"
+    ],
+    [
+      "agent",
+      "OK, Saturday Afternoon, I'll message you at that time! Good, good...no Memento situation on the horizon",
+      "Record"
+    ],
+    [
+      "user",
+      "thank you",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Great! I'm really excited ??. These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+      "End"
+    ]
+  ],
+  "12": [
+    [
+      "user",
+      "Get Started",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs\nyou'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "GO",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Great, let's do this! Start by giving me ONE movie you like and some\nreasons why.\n\nYou can also just tell me what you want in the movie that I'll be\npicking for you. A great match awaits!",
+      "Elicit"
+    ],
+    [
+      "user",
+      "I want a good documentary about heavy metal",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "OK, what's a good movie with that in it? And anything else you like about it?\n\nYou can say things like: Old School because of the hilarious\nsituations, Wolf of Wall Street for all the craziness.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Deicide - Death Metal Murders Documentary",
+      "Refine"
+    ],
+    [
+      "agent",
+      "Gotcha... Deicide - Death Metal Murders, right? There's only 1.8% of\nusers that have mentioned this one. I am still generating AI-powered\nmovie recs based on this film. Can you tell me about a different one\nyou like?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Metal: A Headbanger's Journey",
+      "Refine"
+    ],
+    [
+      "agent",
+      "Got it. Prepping what may feel like a magic trick. I'll make how you\nused to find what to watch disappear!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found Defiance for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out We Were Soldiers! ",
+      "List"
+    ],
+    [
+      "agent",
+      "That's only half the magic! I can send you a reminder at the time of\nyour choosing. Trust me, you don't want to forget",
+      "Suggest"
+    ],
+    [
+      "user",
+      "No Reminder Needed!",
+      "Interrupt"
+    ],
+    [
+      "agent",
+      "OK! But don't go all Dory on these movies! \uD83D\uDE09 They're AI generated,\nultra-personalized. Watch them to get the full magical effect.",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Thank you",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Boom! I'm loving that you like your movie picks \uD83D\uDE42. Want me to give\nyou movies to watch on Twitter? Tweet at me @\nhttps://twitter.com/textandchill.",
+      "End"
+    ]
+  ],
+  "13": [
+    [
+      "user",
+      "Get Started",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "What movie should i watch that is liked?",
+      "Inquire"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "40 year old virgin",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Nice! Now tell me why you like 40 Year Old Virgin. Something cool is that you can be more specific than 'action' or 'story' if you'd like.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Because it is hilarious",
+      "Expand"
+    ],
+    [
+      "agent",
+      "Got it. Prepping the cue cards. If you're playing with Netflix right now, say it's Blockbuster.",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Hot Rod!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also Get Him To The Greek!",
+      "List"
+    ],
+    [
+      "agent",
+      "These are going to be incredible! How about a reminder so you don't forget? Choose a time below!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "No Reminder Needed!",
+      "Interrupt"
+    ],
+    [
+      "agent",
+      "Cool. Please don't 50 First Dates this! \uD83D\uDE09 I'm available 24/7 for more AI generated movie recs for you. Boom!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Thanks",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Cool! I think you're going to enjoy your movies!\n\nIf you're excited about your picks, tweet about us using @textandchill! Here's our Twitter profile: www.twitter.com/textandchill",
+      "End"
+    ]
+  ],
+  "14": [
+    [
+      "user",
+      "Get Started",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "GO",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Once Upon A Time In Hollywood. I loved the twist ending!",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About to go the distance. I'll have your movie picks before the bell rings!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I think you should give Hooper a shot!",
+      "List"
+    ],
+    [
+      "agent",
+      "I also found Suicide Kings!",
+      "List"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "No Reminder Needed!",
+      "Interrupt"
+    ],
+    [
+      "agent",
+      "OK, won't send you a reminder! Funny, Jason Bourne said the same thing... ",
+      "Back"
+    ],
+    [
+      "user",
+      "I liked your recommendation",
+      "Note"
+    ],
+    [
+      "agent",
+      "Ah! I can't grab great picks for that title.\n\nI know, you were pretty excited. Try a different movie and use a full sentence. You've helped me learn for next time!",
+      "Record"
+    ]
+  ],
+  "15": [
+    [
+      "user",
+      "Get Started",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "GO",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Schindler's List because it was very emotional and finding out things about the Holocaust was really interesting",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Life Is Beautiful!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out The Green Mile!",
+      "List"
+    ],
+    [
+      "agent",
+      "You don't want to forget these! Want a message to remind you? Pick a time!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "No Reminder Needed!",
+      "Interrupt"
+    ],
+    [
+      "agent",
+      "OK, won't send you a reminder! Funny, Jason Bourne said the same thing...",
+      "Back"
+    ],
+    [
+      "user",
+      "I saw the two mentioned movies. Can you recommend me another one?",
+      "Similar"
+    ],
+    [
+      "agent",
+      "I found Cinderella Man for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out Cider House Rules!",
+      "List"
+    ],
+    [
+      "agent",
+      "You don't want to forget these! Want a message to remind you? Pick a time!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Friday Evening",
+      "Note"
+    ],
+    [
+      "agent",
+      "Excellent! Your reminded is queued for Friday Evening. Pro tip: 'Before I Go To Sleep' w/ Nicole Kidman is an under-viewed memory-based flick. Might want to check it out!",
+      "Record"
+    ],
+    [
+      "user",
+      "I like Cinderella Man's Trailer. I'm going to try this one.",
+      "Note"
+    ],
+    [
+      "agent",
+      "Ah! I can't grab great picks for Cinderella Man's Trailer.\n\nI know, you were pretty excited. Try a different movie and use a full sentence. You've helped me learn for next time!",
+      "Fail"
+    ],
+    [
+      "user",
+      "I like Cinderella Man",
+      "Note"
+    ],
+    [
+      "agent",
+      "Mmm hmm. What's the coolest thing about Cinderella Man?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "I like boxing",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. Prepping the cue cards. If you're playing with Netflix right now, say it's Blockbuster.",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found Prefontaine for you!\n",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out X + Y!",
+      "List"
+    ],
+    [
+      "agent",
+      "That's only half the magic! I can send you a reminder at the time of your choosing. Trust me, you don't want to forget",
+      "Suggest"
+    ],
+    [
+      "user",
+      "No Reminder Needed!",
+      "Interrupt"
+    ],
+    [
+      "agent",
+      "OK, won't send you a reminder! Funny, Jason Bourne said the same thing... ??",
+      "Back"
+    ]
+  ],
+  "16": [
+    [
+      "user",
+      "Get Started",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "Go",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+      "Elicit"
+    ],
+    [
+      "user",
+      "The Last Samurai (2003). I love the era of this film and the beautiful, serene landscape. As well, I have a love for samurai.",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I think you should give The Flowers Of War a shot!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out Defiance! ",
+      "List"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Ah, I've seen both of these films and Flowers of War is one of my absolute favorites. Defiance is a great film, as well. Excellent recommendations.",
+      "Similar"
+    ],
+    [
+      "agent",
+      "That's all I got at the moment, but try one! I really think you'll like! How about another movie you like and why? ",
+      "Elicit"
+    ],
+    [
+      "user",
+      "The Shootist (1976) is another one of my favorite films and as to why it's one of my favorites is because it stars my favorite actor: John Wayne. It's his last movie before his death and his best performance.",
+      "Revise"
+    ],
+    [
+      "agent",
+      "Ah... when users name It's One Of My Favorites, I act a bit Clueless ??. Come back at me for that one some other time. What's a different movie you like, and why do you like it? ??",
+      "Elicit"
+    ],
+    [
+      "user",
+      "The Shootist (1976)",
+      "Refine"
+    ],
+    [
+      "agent",
+      "That's all I got at the moment, but try one! I really think you'll like! How about another movie you like and why?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Spirited Away (2001), which is one of my favorite animated films. Gorgeous animation, excellent characters, beautiful music and a great story. Can't beat it.",
+      "Revise"
+    ],
+    [
+      "agent",
+      "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Mirrormask!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also The Imaginarium Of Doctor Parnassus!",
+      "List"
+    ],
+    [
+      "agent",
+      "Don't miss out on these movies. I've curated some times to remind you of your picks. When's good?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Well, I've not seen either film, but Mirrormask doesn't seem all that appealing to me after watching the trailer. The Imaginarium Of Doctor Parnassus, however, does appeal to me. It seems rather unique in it's style and I like that. Perhaps I'll give this one a watch on Amazon Prime. It looks promising.",
+      "Note"
+    ],
+    [
+      "agent",
+      "...",
+      "End"
+    ]
+  ],
+  "17": [
+    [
+      "user",
+      "hi Andchill",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "i like the movie Alladin. I love it because  the grapihcs is amazing and the story too. I'm more into fantasy",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Ah! I can't grab great picks for Alladin.\n\nI know, you were pretty excited. Try a different movie and use a full sentence. You've helped me learn for next time!",
+      "Elicit"
+    ],
+    [
+      "user",
+      "how about Harry potter?",
+      "Revise"
+    ],
+    [
+      "agent",
+      "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Percy Jackson!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also The Spiderwick Chronicles!",
+      "List"
+    ],
+    [
+      "agent",
+      "You don't want to forget these! Want a message to remind you? Pick a time!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "I don't like any of those suggestions. can you search for more related movies please?",
+      "Similar"
+    ],
+    [
+      "agent",
+      "I think you should give Odd Thomas a shot!",
+      "Similar"
+    ],
+    [
+      "agent",
+      "Also check out John Dies At The End!",
+      "Similar"
+    ],
+    [
+      "agent",
+      "Don't miss out on these movies. I've curated some times to remind you of your picks. When's good?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "is that movie Adult rated?",
+      "Repeat"
+    ],
+    [
+      "agent",
+      "OK, what's a good movie with that in it? And anything else you like about it?\n\nYou can say things like: Old School because of the hilarious situations, Wolf of Wall Street for all the craziness.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "search for a movie that isn't adult rated",
+      "Inquire"
+    ],
+    [
+      "agent",
+      "I'm pretty solid on a bunch of things so far, but not on this request. Requests like this are becoming clearer to me as we go. Maybe I'll answer it sometime in the future!",
+      "Fail"
+    ],
+    [
+      "user",
+      "ok. then can you look for a fantasy movie?",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+      "Elicit"
+    ],
+    [
+      "user",
+      "harry pottter",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Really? that title? You managed to name a movie that only 1.1% of users have talked about. I am still generating AI-powered movie recs based on this film. Can you tell me about a different one you like?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "harry potter",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. Prepping the cue cards. If you're playing with Netflix right now, say it's Blockbuster.",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found Odd Thomas for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "I also found Stardust!",
+      "List"
+    ],
+    [
+      "agent",
+      "Don't miss out on these movies. I've curated some times to remind you of your picks. When's good?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "ah.. not the same ones again",
+      "Similar"
+    ],
+    [
+      "agent",
+      "I found The Spiderwick Chronicles for you!",
+      "Similar"
+    ],
+    [
+      "user",
+      "please show me different ones",
+      "Similar"
+    ],
+    [
+      "agent",
+      "Also check out Percy Jackson! ??",
+      "Similar"
+    ],
+    [
+      "agent",
+      "These are going to be incredible! How about a reminder so you don't forget? Choose a time below!",
+      "Suggest"
+    ],
+    [
+      "agent",
+      "That's all I got at the moment, but try one! I really think you'll like! How about another movie you like and why?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "ok. i actually find one of your recommendations interesting",
+      "Note"
+    ],
+    [
+      "agent",
+      "Boom! I'm loving that you like your movie picks ??. Want me to give you movies to watch on Twitter? Tweet at me @ https://twitter.com/textandchill.",
+      "Record"
+    ],
+    [
+      "user",
+      "Saturday Afternoon",
+      "Note"
+    ],
+    [
+      "agent",
+      "Great, Saturday Afternoon! Even if your next few days are 'The Hangover'-crazy, I'll make sure to have your back ??. Talk to you soon!",
+      "Record"
+    ],
+    [
+      "user",
+      "lol. okies. thanks a lot. bye",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Cool! I think you're going to enjoy your movies!\n\nIf you're excited about your picks, tweet about us using @textandchill! Here's our Twitter profile: www.twitter.com/textandchill",
+      "End"
+    ]
+  ],
+  "18": [
+    [
+      "user",
+      "Come\u0087ar",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "go",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "revolutionary road",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Ah... when users name Revolutionary Road, I act a bit Clueless . Come back at me for that one some other time. What's a different movie you like, and why do you like it? ",
+      "Elicit"
+    ],
+    [
+      "user",
+      "the aeronauts",
+      "Revise"
+    ],
+    [
+      "agent",
+      "You're now in an exclusive group of .8% of users that talked about The Aeronauts. I got you on a different movie. What's your favorite movie? And why?",
+      "Elicit"
+    ],
+    [
+      "user",
+      "it's new and entertaining",
+      "Expand"
+    ],
+    [
+      "agent",
+      "OK, what's a good movie with that in it? And anything else you like about it? You can say things like: Old School because of the hilarious situations, Wolf of Wall Street for all the craziness.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "joker",
+      "Expand"
+    ],
+    [
+      "agent",
+      "Got it. About go into the deep levels into your mind! The picks I show you were already there. Inception'ed...",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found Nightcrawler for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also Smoke! ",
+      "List"
+    ],
+    [
+      "agent",
+      "Don't miss out on these movies. I've curated some times to remind you of your picks. When's good?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Sunday Afternoon",
+      "Note"
+    ],
+    [
+      "agent",
+      "Excellent! Your reminded is queued for Sunday Afternoon. Pro tip: 'Before I Go To Sleep' w/ Nicole Kidman is an under-viewed memory-based flick. Might want to check it out!",
+      "Record"
+    ],
+    [
+      "user",
+      "smoke",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "OK, what's a good movie with that in it? And anything else you like about it? You can say things like: Old School because of the hilarious situations, Wolf of Wall Street for all the craziness.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "pretty woman because iy's a romcom",
+      "Expand"
+    ],
+    [
+      "agent",
+      "Got it. Prepping the cue cards. If you're playing with Netflix right now, say it's Blockbuster.",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Pride & Prejudice!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Saturday Afternoon",
+      "Note"
+    ],
+    [
+      "agent",
+      "OK, Saturday Afternoon, I'll message you at that time! Good, good...no Memento situation on the horizon ",
+      "Record"
+    ],
+    [
+      "user",
+      "I love this one, thank you",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Great! I'm really excited . These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+      "End"
+    ]
+  ],
+  "19": [
+    [
+      "user",
+      "Get Started",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "GO",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Blade runne4 2049, because it's deep",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I found Uncanny for you!",
+      "List"
+    ],
+    [
+      "agent",
+      "I also found Escape From New York!",
+      "List"
+    ],
+    [
+      "agent",
+      "Don't miss out on these movies. I've curated some times to remind you of your picks. When's good?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Saturday Afternoon",
+      "Note"
+    ],
+    [
+      "agent",
+      "OK, Saturday Afternoon, I'll message you at that time! Good, good...no Memento situation on the horizon",
+      "Record"
+    ]
+  ],
+  "20": [
+    [
+      "user",
+      "A boring day. Andchill can you please suggest me a good movie to watch tonight?",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "Madagascar. the characters in the movie are so funny and I think I can enjoy any movie like that one",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Megamind!",
+      "List"
+    ],
+    [
+      "agent",
+      "Also check out Jack And The Cuckoo Clock Heart!",
+      "List"
+    ],
+    [
+      "agent",
+      "These are going to be incredible! How about a reminder so you don't forget? Choose a time below!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "I've already seen all of them. can you please enlarge your list",
+      "Similar"
+    ],
+    [
+      "agent",
+      "I found The Book Of Life for you!",
+      "Similar"
+    ],
+    [
+      "agent",
+      "There's also Rise Of The Guardians!",
+      "Similar"
+    ],
+    [
+      "agent",
+      "These are going to be incredible! How about a reminder so you don't forget? Choose a time below!",
+      "Suggest"
+    ],
+    [
+      "user",
+      "is the last one a comedy movie?",
+      "Repeat"
+    ],
+    [
+      "agent",
+      "OK, what's a good movie with that in it? And anything else you like about it?\n\nYou can say things like: Old School because of the hilarious situations, Wolf of Wall Street for all the craziness.",
+      "Elicit"
+    ],
+    [
+      "user",
+      "wow. that sounds interesting. I can't wait to watch it. can you please remind me tonight about the movie?",
+      "Inquire"
+    ],
+    [
+      "agent",
+      "Ah, I can't do specific reminder times right now! Choose one of the times above instead!",
+      "Fail"
+    ],
+    [
+      "user",
+      "sure. let me check",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "OK. You're unsubscribed! If you send another message I'll assume you would like to start again.",
+      "End"
+    ],
+    [
+      "user",
+      "Friday Evening",
+      "Note"
+    ],
+    [
+      "agent",
+      "Great, Friday Evening! Even if your next few days are 'The Hangover'-crazy, I'll make sure to have your back ??. Talk to you soon!",
+      "Record"
+    ],
+    [
+      "user",
+      "yeah sure buddy. thanks a lot for your suggestion. I will let you know if I like the movie or not. Bye for now",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Cool! I think you're going to enjoy your movies!\n\nIf you're excited about your picks, tweet about us using @textandchill! Here's our Twitter profile: www.twitter.com/textandchill",
+      "End"
+    ]
+  ],
+  "1047672896": [
+        [
+            "user",
+            "go",
+            "Non-disclose"
+        ],
+        [
+            "agent",
+            "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+            "Inquire"
+        ],
+        [
+            "user",
+            "hello",
+            "Non-disclose"
+        ],
+        [
+            "agent",
+            "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+            "Elicit"
+        ],
+        [
+            "user",
+            "how are you doing",
+            "Non-disclose"
+        ],
+        [
+            "agent",
+            "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+            "Elicit"
+        ],
+        [
+            "user",
+            "Coherence is a good movie",
+            "Disclose"
+        ],
+        [
+            "agent",
+            "Thanks, I hear ya. Just need why you like Coherence now and I can grab you some picks.",
+            "Elicit"
+        ],
+        [
+            "user",
+            "it is sci-fi and creative",
+            "Expand"
+        ],
+        [
+            "agent",
+            "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+            "Show"
+        ],
+        [
+            "agent",
+            "You should try Frequencies!",
+            "List"
+        ],
+        [
+            "agent",
+            "I also found Jumper! :)",
+            "List"
+        ],
+        [
+            "agent",
+            "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+            "Suggest"
+        ],
+        [
+            "user",
+            "which one do you suggest should I watch first",
+            "Compare"
+        ],
+        [
+            "agent",
+            "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+            "Elicit"
+        ],
+        [
+            "user",
+            "can you remind me the movie I should watch tonight ?",
+            "Inquire"
+        ],
+        [
+            "agent",
+            "Ah, I can't do specific reminder times right now! Choose one of the times above instead!",
+            "Fail"
+        ],
+        [
+            "user",
+            "can you recommend me more movies",
+            "Inquire"
+        ],
+        [
+            "agent",
+            "OK, what's a good movie with that in it? And anything else you like about it?\n\nYou can say things like: Old School because of the hilarious situations, Wolf of Wall Street for all the craziness.",
+            "Elicit"
+        ],
+        [
+            "user",
+            "something similar to coherence",
+            "Similar"
+        ],
+        [
+            "agent",
+            "Got it. Prepping what may feel like a magic trick. I'll make how you used to find what to watch disappear!",
+            "Show"
+        ],
+        [
+            "agent",
+            "I found Pi for you!",
+            "Similar"
+        ],
+        [
+            "agent",
+            "There's also Frequencies! :)",
+            "Similar"
+        ],
+        [
+            "agent",
+            "You don't want to forget these! Want a message to remind you? Pick a time!",
+            "Suggest"
+        ],
+        [
+            "user",
+            "Friday Evening",
+            "Note"
+        ],
+        [
+            "agent",
+            "OK, Friday Evening, I'll message you at that time! Good, good...no Memento situation on the horizon ;)",
+            "Record"
+        ],
+        [
+            "user",
+            "thanks",
+            "Complete"
+        ],
+        [
+            "agent",
+            "Boom! I'm loving that you like your movie picks :). Want me to give you movies to watch on Twitter? Tweet at me @ https://twitter.com/textandchill.",
+            "End"
+        ]
+    ],
+  "21": [
+    [
+      "user",
+      "Começar",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Hi! And Chill here (www.andchill.io). I'll give you spot-on movie recs you'll love.\n\nSay 'GO' to start! *Don't send multiple messages quickly!*",
+      "Inquire"
+    ],
+    [
+      "user",
+      "GO",
+      "Non-disclose"
+    ],
+    [
+      "agent",
+      "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+      "Elicit"
+    ],
+    [
+      "user",
+      "The Lord of the Rings and the Return of the King. I really love fantasy and medieval movies.",
+      "Disclose"
+    ],
+    [
+      "agent",
+      "Got it. About to pick what you'd pick if you searched. I'm your Tyler Durden. All you can do now is wait!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Centurion!",
+      "List"
+    ],
+    [
+      "agent",
+      "Don't miss out on these movies. I've curated some times to remind you of your picks. When's good?",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Friday Evening",
+      "Note"
+    ],
+    [
+      "agent",
+      "You got it, I'll remind you on Friday Evening. Gave a reminder to Jim Carey from Eternal Sunshine just yesterday. What a time to be alive! ",
+      "Record"
+    ],
+    [
+      "user",
+      "Thanks!",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Boom! I'm loving that you like your movie picks \uD83D\uDE42. Want me to give you movies to watch on Twitter? Tweet at me @ https://twitter.com/textandchill.",
+      "End"
+    ],
+    [
+      "user",
+      "I really liked the recommendation, it has all the features I look for.",
+      "Note"
+    ],
+    [
+      "agent",
+      "Got it. About to go the distance. I'll have your movie picks before the bell rings!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try that title!",
+      "List"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Record"
+    ],
+    [
+      "user",
+      "No Reminder Needed!",
+      "Interrupt"
+    ],
+    [
+      "agent",
+      "OK! But don't go all Dory on these movies! \uD83D\uDE09 They're AI generated, ultra-personalized. Watch them to get the full magical effect.",
+      "Back"
+    ],
+    [
+      "user",
+      "Thanks",
+      "Complete"
+    ],
+    [
+      "agent",
+      "Cool! I think you're going to enjoy your movies!\n\nIf you're excited about your picks, tweet about us using @textandchill! Here's our Twitter profile: www.twitter.com/textandchill",
+      "End"
+    ],
+    [
+      "user",
+      "I liked the recommendation of the movie called Centurion. I watched the trailer and especially enjoyed finding the fantasy and medieval theme just like the Lord of the Rings movies that I like a lot.",
+      "Back"
+    ],
+    [
+      "agent",
+      "Got it. About to go the distance. I'll have your movie picks before the bell rings!",
+      "Show"
+    ],
+    [
+      "agent",
+      "I think you should give Stardust a shot!",
+      "List"
+    ],
+    [
+      "agent",
+      "There's also King Arthur!",
+      "List"
+    ],
+    [
+      "agent",
+      "That's only half the magic! I can send you a reminder at the time of your choosing. Trust me, you don't want to forget ",
+      "Suggest"
+    ],
+    [
+      "user",
+      "Stardust I've watched, but thanks for the recommendation.",
+      "Note"
+    ],
+    [
+      "agent",
+      "I found Kingdom Of Heaven for you!",
+      "More"
+    ],
+    [
+      "agent",
+      "There's also The Eagle!",
+      "More"
+    ],
+    [
+      "agent",
+      "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+      "Record"
+    ],
+    [
+      "user",
+      "No Reminder Needed!",
+      "Note"
+    ],
+    [
+      "agent",
+      "Alright, I'll try to hold my tongue \uD83D\uDE09 Want more next-gen, AI personalized movie suggestions? Tell me about a movie you love.",
+      "Record"
+    ],
+    [
+      "user",
+      "The eagle I haven't watched yet, but I liked the movie features about gladiators. I will stick with these two recommendations. Thank you.",
+      "Back"
+    ],
+    [
+      "agent",
+      "Got it. Prepping what may feel like a magic trick. I'll make how you used to find what to watch disappear!",
+      "Show"
+    ],
+    [
+      "agent",
+      "You should try Kingdom Of Heaven!",
+      "More"
+    ],
+    [
+      "agent",
+      "There's also Ironclad!",
+      "More"
+    ],
+    [
+      "agent",
+      "That's only half the magic! I can send you a reminder at the time of your choosing. Trust me, you don't want to forget",
+      "Suggest"
+    ],
+    [
+      "user",
+      "No Reminder Needed!",
+      "Interrupt"
+    ],
+    [
+      "agent",
+      "Cool. Please don't 50 First Dates this! \uD83D\uDE09 I'm available 24/7 for more AI generated movie recs for you. Boom!",
+      "Suggest"
+    ]
+  ],
+    "991380210": [
+        [
+            "user",
+            "go",
+            "Non-disclose"
+        ],
+        [
+            "agent",
+            "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+            "Elicit"
+        ],
+        [
+            "user",
+            "go",
+            "Non-disclose"
+        ],
+        [
+            "agent",
+            "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+            "Elicit"
+        ],
+        [
+            "user",
+            "the remains of the day",
+            "Disclose"
+        ],
+        [
+            "agent",
+            "Aye Aye! What's your favorite thing about The Day After Tomorrow?",
+            "Elicit"
+        ],
+        [
+            "user",
+            "the dark knight",
+            "Expand"
+        ],
+        [
+            "agent",
+            "Good! Now your next step is to tell me what you like about The Dark Knight. Just say what comes to mind.",
+            "Elicit"
+        ],
+        [
+            "user",
+            "psychology",
+            "Expand"
+        ],
+        [
+            "agent",
+            "Got it. About to jump into lightspeed! I'll have your movies ready for you in a flash!",
+            "Show"
+        ],
+        [
+            "agent",
+            "You should try The Spirit!",
+            "List"
+        ],
+        [
+            "agent",
+            "I also found Hancock! :)",
+            "List"
+        ],
+        [
+            "agent",
+            "That's only half the magic! I can send you a reminder at the time of your choosing. Trust me, you don't want to forget :)",
+            "Suggest"
+        ],
+        [
+            "user",
+            "ok",
+            "Note"
+        ],
+        [
+            "agent",
+            "Great! I'm really excited :). These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+            "Record"
+        ],
+        [
+            "user",
+            "any movie from Heath Ledger",
+            "Revise"
+        ],
+        [
+            "agent",
+            "OK, what's a good movie with that in it? And anything else you like about it?\n\nYou can say things like: Old School because of the hilarious situations, Wolf of Wall Street for all the craziness.",
+            "Elicit"
+        ],
+        [
+            "user",
+            "movie from Heath Ledger?",
+            "Refine"
+        ],
+        [
+            "agent",
+            "OK, what's a good movie with that in it? And anything else you like about it?\n\nYou can say things like: Old School because of the hilarious situations, Wolf of Wall Street for all the craziness.",
+            "Elicit"
+        ],
+        [
+            "user",
+            "are you smart, film not?",
+            "Non-disclose-complain"
+        ],
+        [
+            "agent",
+            "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+            "Elicit"
+        ],
+        [
+            "user",
+            "joker",
+            "Revise"
+        ],
+        [
+            "agent",
+            "OK, what did you like about Joker?\n\nYou can say things like: darkness, cool vampires, or shot beautifully",
+            "Elicit"
+        ],
+        [
+            "user",
+            "I like the acting in joker and actor Joaquin",
+            "Expand"
+        ],
+        [
+            "agent",
+            "Got it. Prepping what may feel like a magic trick. I'll make how you used to find what to watch disappear!",
+            "Show"
+        ],
+        [
+            "user",
+            "go",
+            "Non-disclose"
+        ],
+        [
+            "agent",
+            "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+            "Elicit"
+        ]
+    ],
+ "466251508": [
+      [
+        "user",
+        "go",
+        "Non-disclose"
+      ],
+      [
+        "agent",
+        "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+        "Elicit"
+      ],
+      [
+        "user",
+        "The Dark Knight for the character sketch",
+        "Disclose"
+      ],
+      [
+        "agent",
+        "Got it. Prepping what may feel like a magic trick. I'll make how you used to find what to watch disappear!",
+        "Show"
+      ],
+      [
+        "agent",
+        "You should try Hitchhiker\u2019s Guide To The Galaxy!",
+        "List"
+      ],
+      [
+        "agent",
+        "Ah! I don't take requests like that just yet! I'm learning more every day!",
+        "Fail"
+      ],
+      [
+        "user",
+        "Can you suggest anything else?",
+        "Similar"
+      ],
+      [
+        "agent",
+        "You should try Constantine!",
+        "Similar"
+      ],
+      [
+        "agent",
+        "Also check out Hancock! :)",
+        "Similar"
+      ],
+      [
+        "agent",
+        "That's only half the magic! I can send you a reminder at the time of your choosing. Trust me, you don't want to forget :)",
+        "Suggest"
+      ],
+      [
+        "user",
+        "Watched those already.",
+        "Similar"
+      ],
+      [
+        "agent",
+        "That's all I got at the moment, but try one! I really think you'll like! How about another movie you like and why? :)",
+        "Elicit"
+      ],
+      [
+        "user",
+        "Avatar for the creativity",
+        "Revise"
+      ],
+      [
+        "agent",
+        "Got it. About go into the deep levels into your mind! The picks I show you were already there. Inception'ed...",
+        "Show"
+      ],
+      [
+        "agent",
+        "I think you should give The Golden Compass a shot!",
+        "List"
+      ],
+      [
+        "agent",
+        "Don't miss out on these movies. I've curated some times to remind you of your picks. When's good?",
+        "Suggest"
+      ],
+      [
+        "user",
+        "Watched it already",
+        "Similar"
+      ],
+      [
+        "agent",
+        "That's all I got at the moment, but try one! I really think you'll like! How about another movie you like and why? :)",
+        "Elicit"
+      ],
+      [
+        "user",
+        "Seven for the thrill screenplay",
+        "Revise"
+      ],
+      [
+        "agent",
+        "Got it. Prepping what may feel like a magic trick. I'll make how you used to find what to watch disappear!",
+        "Show"
+      ],
+      [
+        "agent",
+        "You should try Predestination!",
+        "List"
+      ],
+      [
+        "agent",
+        "There's also Killing Them Softly! :)",
+        "List"
+      ],
+      [
+        "agent",
+        "I am so excited for you to check these ultra personalized movie recs out. So excited, that I'm dying to send you a reminder to watch them! When should I remind you?",
+        "Suggest"
+      ],
+      [
+        "user",
+        "Thank You",
+        "Non-disclose"
+      ],
+      [
+        "agent",
+        "Great! I'm really excited :). These movies are going to be phenomenal! Want more? I'm at https://www.facebook.com/textandchill/",
+        "Record"
+      ],
+      [
+        "user",
+        "hello",
+        "Non-disclose"
+      ],
+      [
+        "agent",
+        "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+        "Elicit"
+      ],
+      [
+        "user",
+        "need a movie recommendation",
+        "Inquire"
+      ],
+      [
+        "agent",
+        "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+        "Elicit"
+      ],
+      [
+        "user",
+        "Angels and Demons for the screenplay",
+        "Revise"
+      ],
+      [
+        "agent",
+        "Ah... when users name Angels And Demons, I act a bit Clueless ;). Come back at me for that one some other time. What's a different movie you like, and why do you like it? :)",
+        "Elicit"
+      ],
+      [
+        "user",
+        "Jumanji for the fun part",
+        "Revise"
+      ],
+      [
+        "agent",
+        "Got it. Prepping the cue cards. If you're playing with Netflix right now, say it's Blockbuster.",
+        "Show"
+      ],
+      [
+        "agent",
+        "You should try Real Steel!",
+        "List"
+      ],
+      [
+        "agent",
+        "There's also Robot Overlords! :)",
+        "List"
+      ],
+      [
+        "agent",
+        "Don't miss out on these movies. I've curated some times to remind you of your picks. When's good?",
+        "Suggest"
+      ]
+    ],
+  "867574967": [
+      [
+        "user",
+        "go",
+        "Non-disclose"
+      ],
+      [
+        "agent",
+        "Great, let's do this! Start by giving me ONE movie you like and some reasons why.\n\nYou can also just tell me what you want in the movie that I'll be picking for you. A great match awaits!",
+        "Elicit"
+      ],
+      [
+        "user",
+        "Hello",
+        "Non-disclose"
+      ],
+      [
+        "agent",
+        "OK, Let's go! The floor is yours. Give me ONE movie you like, and why you like it.",
+        "Elicit"
+      ],
+      [
+        "user",
+        "Twilight I like it because of the love story and bond between Edward and bella.",
+        "Disclose"
+      ],
+      [
+        "agent",
+        "Got it. About go into the deep levels into your mind! The picks I show you were already there. Inception'ed...",
+        "Show"
+      ],
+      [
+        "agent",
+        "I found The Fallen for you!",
+        "List"
+      ],
+      [
+        "agent",
+        "I also found Every Day! :)",
+        "List"
+      ],
+      [
+        "agent",
+        "Don't miss out on these movies. I've curated some times to remind you of your picks. When's good?",
+        "Suggest"
+      ],
+      [
+        "user",
+        "What is The Fallen?",
+        "Back"
+      ],
+      [
+        "agent",
+        "Ah! I can't grab great picks for The Fallen.\n\nI know, you were pretty excited. Try a different movie and use a full sentence. You've helped me learn for next time!",
+        "Elicit"
+      ],
+      [
+        "user",
+        "You can remind me of my picks at 6pm",
+        "Inquire"
+      ],
+      [
+        "agent",
+        "Ah, I can't do specific reminder times right now! Choose one of the times above instead!",
+        "Fail"
+      ],
+      [
+        "user",
+        "Can you give me new picks for the movie Twilight",
+        "Similar"
+      ],
+      [
+        "agent",
+        "Got it. About to jump into lightspeed! I'll have your movies ready for you in a flash!",
+        "Show"
+      ],
+      [
+        "agent",
+        "I found Every Day for you!",
+        "Similar"
+      ],
+      [
+        "agent",
+        "Also check out Dorian Gray! :)",
+        "Similar"
+      ],
+      [
+        "agent",
+        "These are going to be incredible! How about a reminder so you don't forget? Choose a time below!",
+        "Suggest"
+      ],
+      [
+        "user",
+        "You choose time",
+        "Interrupt"
+      ],
+      [
+        "agent",
+        "Ah! I don't take requests like that just yet! I'm learning more every day!",
+        "Fail"
+      ]
+    ]
+}

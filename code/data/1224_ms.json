@@ -1,0 +1,5112 @@
+{
+  "864112974": [
+  [
+    "user",
+    "Hi",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow may I assist you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Can you recommend thriller movie",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Flight of the Phoenix\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, adventure, drama and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "What year is it from?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was released in year 2004.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Anything else?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Point Blank\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "Anything else?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Impossible\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "No, tell me more about it",
+    "Note"
+  ],
+  [
+    "agent",
+    "The movie plot is about christmas, resort, thailand, tourist and tsunami.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Who are the actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Naomi Watts, Geraldine Chaplin and Oaklee Pendergast.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "How is the rating?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 7.6 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Who directed it?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The director of this movie is J.A. Bayona.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Do you like it?",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "How long is the movie?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It is 1 hours and 54 minutes long.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Okay, do you have other revommendation?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Criminal\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "Nope",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, crime, drama, mystery, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "What is the story about?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around cia, husband wife relationship, memory, tied up while barefoot and violence.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Anything else?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Vantage Point\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "Not yet",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are crime, drama, mystery and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Tell me more",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about explosion, multiple perspectives, president, secret service and shooting.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Tell me more",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about explosion, multiple perspectives, president, secret service and shooting.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Do you know jurassic park?",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Can you recommend other movie?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "What is the movie name",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Ok",
+    "Fail"
+  ],
+  [
+    "user",
+    "Romantic movie?",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "romance movie?",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Have you watched \"I Love You, Beth Cooper\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "I have",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"I Love You, Beth Cooper\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Its wonderful",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. There is a movie named \"Mo Better Blues\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "I forgot",
+    "Non-disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. Have you watched \"Pretty Woman\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes i have",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Love the actinga",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. Have you watched \"The End of the Affair\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No thanks",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "More"
+  ],
+  [
+    "user",
+    "No thanks",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "More"
+  ],
+  [
+    "user",
+    "Bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Bye. Hope you liked it.",
+    "End"
+  ]
+],
+  "1018216123": [
+  [
+    "user",
+    "/start",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Thank you, Goodbye.",
+    "End"
+  ],
+  [
+    "user",
+    "Hi",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nShall we start?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Guide me. Any genres you like?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Action",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Lone Wolf McQuade\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, crime, drama, thriller and western.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I don\u2019t like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Not this",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Battle Los Angeles\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Not this name please",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Sucker Punch\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action and fantasy.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "What\u2019s the story",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 6.1 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Who are actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Jon Hamm, Abbie Cornish and Scott Glenn.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Something else",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Colombiana\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "5",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"RED 2\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, comedy, crime and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Rating?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Its rating on IMDB is 6.7.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actors ?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Bruce Willis, Anthony Hopkins and Garrick Hagon have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Good",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', the 'plot', the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Plot",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around cia, cia agent, rescue, russian and team.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "That\u2019s fine",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Duration?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It's duration is 116 minutes.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Thank you",
+    "Complete"
+  ],
+  [
+    "agent",
+    "I can tell you more about the 'director' name and the 'year' of release.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "No thanks",
+    "Complete"
+  ],
+  [
+    "agent",
+    "I can tell you more about the 'director' name and the 'year' of release.",
+    "More"
+  ],
+  [
+    "user",
+    "It\u2019s okay",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director' and the release 'year'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Bye. Hope you liked it.",
+    "End"
+  ]
+],
+  "1047672896": [
+  [
+    "user",
+    "hi",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi. My name is JARVIS and I can recommend you movies for the GENRE you preffer.\nIf you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I would prefer sports movie",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Southpaw\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Nope, tell me about it",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about boxer, boxing training, death of wife, male in shower and rage.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I am not into boxing. Could you recommend something else?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Trouble with the Curve\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "What is the cast?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Actor",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Clint Eastwood, Ed Lauter and Bob Gunton have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Cool, which year was it released?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie was released in 2012.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Can you send me the link?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline' and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "help",
+    "Navigate"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.",
+    "Show"
+  ],
+  [
+    "user",
+    "How about the IMDB rating?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around aging, baseball, baseball scout, north carolina and pitcher.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "IMDB?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Its rating on IMDB is 6.8.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "OK, I will have a try.",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Could you recommend something else?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Tin Cup\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "Tell me the plot",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about driving range, golf, golfer, tournament and winnebago.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "ok, thanks",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "I can tell you more about the name of the 'director', IMDB 'rating', actors, the release 'year' and the movie 'duration'.",
+    "More"
+  ],
+  [
+    "user",
+    "no, thanks",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "I can tell you more about the name of the 'director', IMDB 'rating', actors, the release 'year' and the movie 'duration'.",
+    "More"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Thank you, Goodbye.",
+    "End"
+  ]
+],
+  "1068234991": [
+  [
+    "user",
+    "Hi",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Can you recommend me some good movies?",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Do you have any genres in mind?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Give me some hint",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. You can choose the genres from 'Action | Adventure | Fantasy | Sci-Fi | Thriller | Romance | Animation | Comedy | Family | Musical | Mystery | Western | Drama | History | Sport | Crime | Horror | War | Biography | Music | Documentary | News | Short | Film-Noir'.",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Do you have something with musical?",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Business of Fancydancing\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes. I have already watched it.",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "I was good but the music wasn't extra ordinary.",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"Into the Woods\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Yes. Seen it",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "It was too good to be true. Maryl Streep is love.",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. There is a movie named \"Walk the Line\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Nope. Can you tell me more about it?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around 1960s, accident, concert, guitar and prison.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "And what other genres the movie has?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are biography, drama, music and romance.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Nice. Thanks. I will watch it.",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "I can tell you more about the 'director' name, 'rating' on IMDB, actors, the 'year' of release and the 'duration' of the movie.",
+    "More"
+  ],
+  [
+    "user",
+    "What is the rating JARVIS?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 7.9 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ummm. And actors?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sandra Ellis Lafferty, Dallas Roberts and Tyler Hilton have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Then I will watch it. Thanks. Bye JARVIS.",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "I can tell you more about the name of the 'director', the release 'year' and the movie 'duration'.",
+    "More"
+  ],
+  [
+    "user",
+    "Bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Thank you, Goodbye.",
+    "End"
+  ]
+],
+  "1068234991-2": [
+  [
+    "user",
+    "Hi",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi. My name is JARVIS and I can recommend you movies for the GENRE you preffer.\nIf you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Hi JARVIS, how is Western movies doing nowdays?",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"True Grit\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Is that an old movie ?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "When was it released?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie was released in 2010.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "What is the rating on imdb ?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 7.7 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "is it a good rating?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 7.7 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "children movie",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', the 'plot', actors and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "can you recomend another movie?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Alamo\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "tell me about the actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around army, dictator, general, texan and texas.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "What actors are in it?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Dennis Quaid, Marc Blucas and Jordi Moll have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "anyother movies with laird john hamilton?",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "director?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The director of this movie is John Lee Hancock.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Thanks",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "I can tell you more about 'rating' on IMDB, the 'year' of release and the 'duration' of the movie.",
+    "More"
+  ],
+  [
+    "user",
+    "duratin?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about 'rating' on IMDB, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "duration?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It's duration is 137 minutes.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Bye. Hope you liked it.",
+    "End"
+  ]
+],
+  "597116003": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I like movie with Brad Pitt as actor",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Do you have any genres in mind?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Action",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Crank\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "8",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. Have you watched \"Hellboy\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Its pretty good",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Good",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Its rating on IMDB is 6.8.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Director",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The director of this movie is Guillermo del Toro.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "James Babson, Rupert Evans and Brian Steele have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie was released in 2004.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Duration",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It's duration is 132 minutes.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I like to watch highland",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Highland",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Help",
+    "Navigate"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.",
+    "Show"
+  ],
+  [
+    "user",
+    "Action",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Kangaroo Jack\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, adventure, comedy and crime.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "No",
+    "Interrupt"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Movie",
+    "List"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Help",
+    "Navigate"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.",
+    "Show"
+  ],
+  [
+    "user",
+    "Scifi",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Action",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Have you watched \"Hanna\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Good",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. Have you watched \"Terminator 3: Rise of the Machines\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Average",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"Transformers: Dark of the Moon\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, adventure and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 6.3 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was released in year 2011.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Glenn Morshower, Lester Speight and Kevin Dunn.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Storyline",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about autobot, decepticon, job interview, moon and spacecraft.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Duration",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It's duration is 154 minutes.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Director",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was directed by Michael Bay.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nShall we start?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Do you have any genres in mind?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Action",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Silent Trigger\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Nope",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, drama and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it",
+    "End"
+  ]
+],
+  "841977677": [
+  [
+    "user",
+    "Hi",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi. My name is JARVIS and I can recommend you movies for the GENRE you preffer.\nIf you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Help",
+    "Navigate"
+  ],
+  [
+    "agent",
+    "Hi. My name is JARVIS and I can recommend you movies for the GENRE you preffer.\nIf you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.",
+    "Show"
+  ],
+  [
+    "user",
+    "Avenger end game",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Action",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Have you watched \"Mission: Impossible - Rogue Nation\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Oho",
+    "Note"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Its rating on IMDB is 7.4.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Nice one",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it",
+    "End"
+  ]
+],
+  "1011129344": [
+  [
+    "user",
+    "Action",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Fantastic Four\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, adventure and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Super",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Can you pls tell me imdb",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Its rating on IMDB is 4.3.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Tim Blake Nelson, Reg E. Cathey and Tim Heidecker.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Director",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was directed by Josh Trank.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Release year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was released in year 2015.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I will watch today",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'storyline' and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Storyline",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about box office flop, critically bashed, portal, teleportation and troubled production.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Duration",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It's duration is 100 minutes.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Plot",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around box office flop, critically bashed, portal, teleportation and troubled production.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Any recommendations for thriller",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Anaconda\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Thriller one",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. There is a movie named \"The Wailing\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Good one",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. There is a movie named \"The Raven\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are crime, mystery and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Thank you",
+    "Complete"
+  ],
+  [
+    "agent",
+    "I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "More"
+  ],
+  [
+    "user",
+    "Thank you",
+    "Complete"
+  ],
+  [
+    "agent",
+    "I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "More"
+  ],
+  [
+    "user",
+    "Imdb",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 6.4 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Thank you",
+    "Complete"
+  ],
+  [
+    "agent",
+    "I can tell you more about the 'director' name, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "More"
+  ],
+  [
+    "user",
+    "Director",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was directed by James McTeigue.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Storyline",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around mask, murder, newspaper, poem and serial killer.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Pam Ferris, Dave Legeno and Kevin McNally have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I LIKED IT",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie was released in 2012.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Good movie",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean.",
+    "Fail"
+  ],
+  [
+    "user",
+    "The raven is good movie",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Fuck you",
+    "..."
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Thanks",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Ok",
+    "End"
+  ],
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nShall we start?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Do you have any genres in mind?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Action",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Bodyguards and Assassins\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No ok",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, drama and history.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Bingbing Fan, Simon Yam and Nicholas Tse have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Any movie",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "I don't like",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Any comedy movie",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Love in the Time of Monsters\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Not good",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. There is a movie named \"Think Like a Man Too\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Good movie",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ]
+],
+  "862899234": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nShall we start?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Guide me. Any genres you like?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Wuxi",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. The available genres are 'Action | Adventure | Fantasy | Sci-Fi | Thriller | Romance | Animation | Comedy | Family | Musical | Mystery | Western | Drama | History | Sport | Crime | Horror | War | Biography | Music | Documentary | News | Short | Film-Noir'.",
+    "Elicit"
+  ],
+  [
+    "user",
+    "War",
+    "Revise"
+  ],
+  [
+    "agent",
+    "There is a movie named \"The Flowers of War\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are drama, history, romance and war.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I like it",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Plot",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around abusive stepfather, attempted rape, food shortage, sexual abuse and starving child.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Its rating on IMDB is 7.6.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Other movie",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Director",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was directed by Yimou Zhang.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it",
+    "End"
+  ]
+],
+  "744716732": [
+  [
+    "user",
+    "Bello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi. My name is JARVIS and I can recommend you movies for the GENRE you preffer.\nIf you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nShall we start?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Which genres do you prefer?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I prefer fantasy movies",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Catwoman\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Yes, I love Halle Berry",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Well made, very good action.",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"Stargate: The Ark of Truth\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, adventure, drama, fantasy and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I know, but I haven\u2019t watched it",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "I don\u2019t know because I never watched it",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. Have you watched \"The Midnight Meat Train\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Well, I liked the plot.",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. Have you watched \"Ordet\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Can you recommend me a nice fantasy movie ?",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"How High\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Thank you, I\u2019ll definitely watch it",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Okay, tell me about it",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about college, drugs, harvard, pot and smoke.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Okay! And who are the actors?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Hector Elizondo, Fred Willard and T.J. Thyne.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Wow! Who\u2019s the director?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was directed by Jesse Dylan.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Nice! I\u2019ll watch it! Do you have any other recommendation?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about IMDB 'rating', the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it.",
+    "End"
+  ]
+],
+  "782777036": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi. My name is JARVIS and I can recommend you movies for the GENRE you preffer.\nIf you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nShall we start?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Which genres do you prefer?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I prefer fantasy movies",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Catwoman\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Yes, I love Halle Berry",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Well made, very good action.",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"Stargate: The Ark of Truth\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, adventure, drama, fantasy and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I know, but I haven\u2019t watched it",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "I don\u2019t know because I never watched it",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. Have you watched \"The Midnight Meat Train\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Well, I liked the plot.",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. Have you watched \"Ordet\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Can you recommend me a nice fantasy movie ?",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"How High\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Thank you, I\u2019ll definitely watch it",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Okay, tell me about it",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about college, drugs, harvard, pot and smoke.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Okay! And who are the actors?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Hector Elizondo, Fred Willard and T.J. Thyne.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Wow! Who\u2019s the director?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was directed by Jesse Dylan.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Nice! I\u2019ll watch it! Do you have any other recommendation?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about IMDB 'rating', the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it.",
+    "End"
+  ]
+],
+  "110219788": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi. My name is JARVIS and I can recommend you movies for the GENRE you preffer.\nIf you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nShall we start?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Guide me. Any genres you like?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Comedy",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Mean Girls\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "It was really good, I love the actors in it, especially Lindsay Lohan.",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"Stripes\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, comedy and war.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 6.9 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was released in year 1981.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "duration",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It's duration is 117 minutes.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "is it good",
+    "Note"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, the 'storyline' and actors.",
+    "Fail"
+  ],
+  [
+    "user",
+    "storyline",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around army, boot camp, breasts, graduation and rescue.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "director",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was directed by Ivan Reitman.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "that's cool",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that.",
+    "Fail"
+  ],
+  [
+    "user",
+    "I want to watch it",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean.",
+    "Fail"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it.",
+    "End"
+  ]
+],
+  "282967490": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Can you recommend me any world war 2 movies?",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Red Dawn\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Not yet, I like Tom Hanks",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, drama and war.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Could give me the synopsis?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Ok",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Imdb rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 6.4 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actors?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Lea Thompson, Jennifer Grey and William Smith.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Any other movie?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, the 'storyline', the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Ow yeah, year?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was released in year 1984.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I don't like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Nomad: The Warrior\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "I dont like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Amigo\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Dont like",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "I don't like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Longest Day\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "I don't like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Have you watched \"Fahrenheit 9/11\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "I don't like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Have you watched \"Act of Valor\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Imdb",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Its rating on IMDB is 6.5.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was released in year 2012.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Alex Veadov, Jason Cottle and Rorke Denver have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I don't like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Have you watched \"Salvador\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "I don't like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Have you watched \"For Greater Glory: The True Story of Cristiada\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Imdb",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 6.6 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie was released in 2012.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actor",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Santiago Cabrera, Eduardo Verstegui and Catalina Sandino Moreno have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I don't like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Book Thief\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Imdb",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 7.6 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was released in year 2013.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Emily Watson, Sophie Nlisse and Roger Allam.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Yes, I want to watch it",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', the 'plot' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "I like it",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', the 'plot' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Plot",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around basement, book, girl, library and track.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Yes, thank you",
+    "Complete"
+  ],
+  [
+    "agent",
+    "I can tell you more about the name of the 'director' and the movie 'duration'.",
+    "More"
+  ],
+  [
+    "user",
+    "Nope",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director' and the movie 'duration'.",
+    "Fail"
+  ]
+],
+  "340522233": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Action",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Chronicles of Narnia: Prince Caspian\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, adventure, family and fantasy.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Adventure",
+    "Revise"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Troy\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are adventure.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Fantasy",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Have you watched \"Charlottes Web\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Adventure",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Have you watched \"Toy Story\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. There is a movie named \"Hoot\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are adventure, comedy and family.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Hoot\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are adventure, comedy and family.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I\u2019ll watch it",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Hoot",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Adventure",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Armageddon\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, adventure, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it.",
+    "End"
+  ]
+],
+  "669965895": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow may I assist you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Titanic",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Do you have any genres in mind?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "adventure",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Legend of Hercules\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, adventure and fantasy.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "fantasy",
+    "Revise"
+  ],
+  [
+    "agent",
+    "There is a movie named \"X-Men: Days of Future Past\". Have you watched it?",
+    "List"
+  ]
+],
+  "830276971": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Brad pit",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Guide me. Any genres you like?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Fighting",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. You can choose the genres from 'Action | Adventure | Fantasy | Sci-Fi | Thriller | Romance | Animation | Comedy | Family | Musical | Mystery | Western | Drama | History | Sport | Crime | Horror | War | Biography | Music | Documentary | News | Short | Film-Noir'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Romance",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Men with Brooms\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are comedy, drama, romance and sport.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 6 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Actors",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Molly Parker, Paul Gross and Kari Matchett have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie was released in 2002.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Boring",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', the 'plot' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Plot",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about championship, coach, curling, marriage and rural setting.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Bye. Hope you liked it.",
+    "End"
+  ]
+],
+  "909702264": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi. My name is JARVIS and I can recommend you movies for the GENRE you preffer.\nIf you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I am looking for a movie to watch tonight",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Do you have any genres in mind?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Mystery or action",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Silent Hill\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are adventure, horror and mystery.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I don\u2019t want to watch a horror movie",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Have you watched \"Ed and His Dead Mother\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are comedy and horror.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "No horror movies",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Devils Rejects\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are crime and horror.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "No horror movies",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Have you watched \"Quarantine\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are horror, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I dislike horror movies",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Have you watched \"Childs Play\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "I didn\u2019t like it",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. There is a movie named \"A Nightmare on Elm Street\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "It was okay",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"Halloween\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "It was okay",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. There is a movie named \"Cheap Thrills\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are comedy, crime, drama, horror and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Not interested",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Could you recommend a political movie",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Could you recommend a comedy?",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Have you watched \"8 Women\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are comedy, crime, musical and romance.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Sounds good",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Tell me about the plot of \u201c8 women\u201d",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around cook, industrialist, secret, snowstorm and suspect.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Who are the actors?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Catherine Deneuve, Isabelle Huppert and Emmanuelle Bart have played prominent roles in this movie.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "When was it released?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "When was \u201c8 women\u201d released?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "I am going to watch the movie \u201c8 women\u201d thank you",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "I can tell you more about the 'director' name, 'rating' on IMDB, the 'year' of release and the 'duration' of the movie.",
+    "More"
+  ],
+  [
+    "user",
+    "What\u2019s the rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 7.1 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Thanks",
+    "Complete"
+  ],
+  [
+    "agent",
+    "I can tell you more about the name of the 'director', the release 'year' and the movie 'duration'.",
+    "More"
+  ]
+],
+  "937663870": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nShall we start?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Which genres do you prefer?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Thriller",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Eden Lake\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Who stars in it",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Michael Fassbender, Jack OConnell and Lorraine Stanley.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "When did it come out",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Which year was it released?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was released in year 2008.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Was it Michael Fassbender's first film?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "What is the movie about?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around camping, forest, lake, stabbed with glass and vomiting.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Did Fassbender character die?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Do you have any other recommendation?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Ok the movie sounds good",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "You are not a very clever bot",
+    "Note-complain"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "I'd like to watch another thriller movie",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Jack Ryan: Shadow Recruit\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Which year was it released?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie was released in 2014.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I saw that movie already",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Hope you like it.",
+    "End"
+  ]
+],
+  "938470673": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nShall we start?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Can you recommend me a romantic comedy ?",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Sex Drive\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Never seen it. What is it about ?",
+    "Note"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "I\u2019ve never seen the movie before",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. Have you watched \"The True Story of PussN Boots\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "No I haven\u2019t",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are adventure, animation and comedy.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Oh nice, I will check it out",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Any other movies to watch",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    938470673
+  ],
+  [
+    "user",
+    "Romantic Comedy",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Aloha\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "What is it ?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Okay",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Thank you, Goodbye.",
+    "End"
+  ]
+],
+  "970891417": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I need to watch a new movie",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Which genres do you prefer?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "comedy",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Bad Moms\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are comedy.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "is it good",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "who is the actor",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Mila Kunis, Jay Hernandez and Jada Pinkett Smith.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I love Mila",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "very good",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "I would like to watch bad moms",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "duration",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It is 1 hours and 40 minutes long.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 6.7 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "released",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, the 'storyline' and the 'year' of release.",
+    "Fail"
+  ],
+  [
+    "user",
+    "year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie was released in 2016.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "director",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was directed by Jon Lucas.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "okay",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that.",
+    "Fail"
+  ],
+  [
+    "user",
+    "what else",
+    "More"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that.",
+    "Fail"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it.",
+    "End"
+  ]
+],
+  "1004670254": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I'm looking for a great movie. Do you have any recommendations please?",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Which genres do you prefer?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I prefer drama",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Eddie the Eagle\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Not my type",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are biography, comedy, drama and sport.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Nope",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "I need drama and crimes",
+    "Expand"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Blue Room\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "What's the blue room",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Its rating on IMDB is 6.3.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Stroyline",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Plot",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about male pubic hair, manipulative personality, murder of wife, neglected wife and pubic hair.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "No",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Director",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The director of this movie is Mathieu Amalric.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Sounds good",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about actors, the release 'year' and the movie 'duration'.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it.",
+    "End"
+  ]
+],
+  "600269396": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow may I assist you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Fantasy",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Omen\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "I haven't",
+    "Note"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors, the release 'year' and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "What year",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie was released in 1976.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I want a recent one",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that. I can tell you more about the name of the 'director', IMDB 'rating', the 'plot', actors and the movie 'duration'.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Romance",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Have you watched \"Cast Away\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "Yes I have",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "I disliked it",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"Darling Lili\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "Not yet",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are comedy, drama, musical, romance and war.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "War?",
+    "Revise"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Doctor Zhivago\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are drama, romance and war.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Tell me about the director",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The plot of the movie revolves around bolshevik, poet, poetry, russia and russian revolution.",
+    "Repeat-fail"
+  ],
+  [
+    "user",
+    "Nice",
+    "Note-end"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Its rating on IMDB is 8.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Director name",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The director of this movie is David Lean.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Stop",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Bye. Hope you liked it.",
+    "End"
+  ],
+  [
+    "user",
+    "Thanks",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Thank you, Goodbye.",
+    "End"
+  ]
+],
+  "655342253": [
+  [
+    "user",
+    "sci-fi",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Wraith\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, horror, romance, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "sci-fi",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"The Chronicles of Riddick\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, adventure, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "sci-fi",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Have you watched \"Prometheus\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "It's not very good",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"Journey to Saturn\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, adventure, animation, comedy and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Minions\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, animation, comedy, family and sci-fi.",
+    655342253
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Megiddo: The Omega Code 2\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, adventure, fantasy, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Teenage Mutant Ninja Turtles\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "I disliked it",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. Have you watched \"Primer\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are drama, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Godzilla Resurgence\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, adventure, drama, horror and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"K-PAX\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are drama, mystery and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Star Trek V: The Final Frontier\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are action, adventure, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Battle for the Planet of the Apes\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Cloudy with a Chance of Meatballs 2\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are animation, comedy, family, fantasy and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"My Favorite Martian\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are comedy, family and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Frequency\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are crime, drama, mystery, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Super 8\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "The genres it belongs to are mystery, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Star Trek Into Darkness\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Bad movie",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"A.I. Artificial Intelligence\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "What do you think about this Movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "so-so",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. There is a movie named \"Cloverfield\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, adventure, horror and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Captain America: The First Avenger\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "so-so",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for reviewing the movie. There is a movie named \"Antiviral\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are horror, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Have you watched \"Death Race\"? It can be a good recommendation.",
+    "Similar"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, sci-fi and thriller.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "another",
+    "Similar"
+  ],
+  [
+    "agent",
+    "There is a movie named \"X-Men: Days of Future Past\". Have you watched it?",
+    "Similar"
+  ],
+  [
+    "user",
+    "yes",
+    "Note-yes"
+  ],
+  [
+    "agent",
+    "Can you give a review on this movie?",
+    "Elicit-review"
+  ],
+  [
+    "user",
+    "Good",
+    "Disclose-review"
+  ],
+  [
+    "agent",
+    "Thank you for your feedback. Have you watched \"Congo\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "no",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, adventure, mystery and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it",
+    "End"
+  ]
+],
+  "970891417-1": [
+  [
+    "user",
+    "Hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi. My name is JARVIS and I can recommend you movies for the GENRE you preffer.\nIf you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nShall we start?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I want to watch a scary movie",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Do you have any genres in mind?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "yes horror movies",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Have you watched \"Paranormal Activity 4\"? It can be a good recommendation.",
+    "List"
+  ],
+  [
+    "user",
+    "no I have not is it good",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are horror.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "great who is the director",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The director of this movie is Henry Joost.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "what's the year of the film",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It was released in year 2012.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "what is it's rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie rates 4.6 on IMDB.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "who is the main actor",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Some of the famous actors in this movie are Matt Shively, Brendon Eggertsen and Alisha Boe.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "what's the duration of the film",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "It's duration is 96 minutes.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "what is the story",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean.",
+    "Fail"
+  ],
+  [
+    "user",
+    "what's the plot",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The movie plot is about boy in a bathtub, demon, laptop computer, pulled underwater and walking in the dark.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "any other suggestions",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Sorry, I cannot help you with that.",
+    "Fail"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "hope you like it.",
+    "End"
+  ]
+],
+  "1025909371": [
+  [
+    "user",
+    "Hi",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.\n\nYou can type 'help' anytime to get assistance.\n\nHow can I help you?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Can you recommend a good movie to watch tonight?",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Which genres do you prefer?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Horror",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "There is a movie named \"Doom\". Have you watched it?",
+    "List"
+  ],
+  [
+    "user",
+    "No, is it good?",
+    "Note"
+  ],
+  [
+    "agent",
+    "Its genres are action, adventure, horror and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Any other suggestions?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Recommend other movie in horror genre",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Its genres are action, adventure, horror and sci-fi.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I dislike that movie.",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Sorry, I don't understand what you mean. I can tell you more about the 'director' name, 'rating' on IMDB, the 'storyline', actors, the 'year' of release and the 'duration' of the movie.",
+    "Fail"
+  ],
+  [
+    "user",
+    "Help",
+    "Navigate"
+  ],
+  [
+    "agent",
+    "Hi there. I am JARVIS, your movie recommending buddy. I can recommend you movies based on the GENRE you preffer.\nAnd if you like the movie, you can ask me about its plot, actors, directors and release year e.t.c.",
+    "Show"
+  ]
+]
+}

@@ -1,0 +1,3757 @@
+{
+  "1047672896": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "london has fallen",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. London Has Fallen\n 2. Fallen\n 3. The Fallen\n 4. Once Fallen\n 5. Fallen\nWhich options matches your title search -----g-: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input London Has Fallen. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Ali G Indahouse\n 2. De Premier\n 3. Captain Apache\n\nWhich film do you have an interest? Just paste the name;)",
+    "List"
+  ],
+  [
+    "user",
+    "2",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input De Premier. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Give me the overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The family of the Belgian prime minister is kidnapped. To get them released, he must murder the American president.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I do not like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Mickey's Gala Premier",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Mickey's Gala Premier\n 2. De Premier\n 3. Mickey's Trailer\n 4. Mickey's Orphans\n 5. Mickey's Once Upon a Christmas\nWhich options matches your title search -----g-: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Mickey's Gala Premier. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Building a Building\n 2. Pluto's Christmas Tree\n 3. Four Wives\n\nWhich film do you have an interest? Just paste the name;)",
+    "List"
+  ],
+  [
+    "user",
+    "2",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Pluto's Christmas Tree. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Give me the overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Pluto comes bounding outside to help Mickey get a Christmas tree. Chip 'n Dale see him and make fun of him, but the tree they take refuge in is the one Mickey chops down. They like the decorations, especially the candy canes and Mickey's bowl of mixed nuts. But Pluto spots them and goes after them long before Mickey spots them. Minnie, Donald, and Goofy drop by to sing carols.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Move genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Animation, Comedy",
+    "Repeat"
+  ],
+  [
+    "user",
+    "how is the rating?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "7.0",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Cool, I like it",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "Thanks",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Fantastic! I hope you enjoy it!Fantastic! I hope you enjoy it!",
+    "End"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "GoodbyeCool!",
+    "End"
+  ]
+],
+  "841977677": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Planet of the apes",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Planet of the Apes\n 2. Planet of the Apes\n 3. War for the Planet of the Apes\n 4. Battle for the Planet of the Apes\n 5. Dawn of the Planet of the Apes\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Planet of the Apes. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "What was the budget of the movie planet of the apes",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The budege of this movie is: $5,800,000",
+    "Repeat"
+  ],
+  [
+    "user",
+    "What was it's revenue",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The revenue of this movie is $33,395,426",
+    "Repeat"
+  ],
+  [
+    "user",
+    "What was it's rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "7.5",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Give movie genaral",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. I Give It a Year\n 2. All Mine to Give\n 3. I Give My First Love to You\n 4. Please Give\n 5. Give Us This Day\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "Give similar movie",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. The Legend of the 7 Golden Vampires\n 2. Voyage to the Beginning of the World\n 3. It's A Bird, It's A Plane, It's Superman!\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Legend of the 7 Golden Vampires. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Start",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. I Start Counting\n 2. Start Liquidation\n 3. Start the Revolution Without Me\n 4. Toy Story\n 5. Jumanji\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "Jumanji",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Jumanji\n 2. Toy Story\n 3. Grumpier Old Men\n 4. Waiting to Exhale\n 5. Father of the Bride Part II\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Jumanji. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Give budget of this movie",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The budege of this movie is: $65,000,000",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Give imdb",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "https://www.imdb.com/title/tt0113497/",
+    "Repeat"
+  ],
+  [
+    "user",
+    "How to download this movie",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "6.9",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Give similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Table No. 21\n 2. Quiz\n 3. Snowed Under\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "2",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Quiz. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ]
+],
+  "40159125": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Harry potter",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Harry Potter and the Chamber of Secrets\n 2. Harry Potter and the Order of the Phoenix\n 3. Harry Potter and the Goblet of Fire\n 4. Harry Potter and the Half-Blood Prince\n 5. Harry Potter and the Philosopher's Stone\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "Harry potter and the goblet of fire",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Harry Potter and the Goblet of Fire\n 2. Harry Potter and the Chamber of Secrets\n 3. Harry Potter and the Order of the Phoenix\n 4. Harry Potter and the Half-Blood Prince\n 5. Harry Potter and the Philosopher's Stone\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Harry Potter and the Goblet of Fire. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Harry Potter and the Deathly Hallows: Part 1\n 2. Harry Potter and the Deathly Hallows: Part 2\n 3. Harry Potter and the Half-Blood Prince\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "3",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Harry Potter and the Half-Blood Prince. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Give me the tmdb link",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "https://www.themoviedb.org/movie/767",
+    "Repeat"
+  ],
+  [
+    "user",
+    "budget",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The budege of this movie is: $250,000,000",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Revenue rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "7.4",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Adult content",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "This is not an adult movie. You can watch this movie with Kids.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I like it",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "GoodbyeCool!",
+    "End"
+  ]
+],
+  "485205035": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Invocation of Devil",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Invocation of My Demon Brother\n 2. Devil\n 3. The Devil\n 4. The House of the Devil\n 5. The Little Devil\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "4",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input The House of the Devil. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "I wold like more horror movie options",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Mystery, Horror",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I also like mystery movies",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Mystery, Horror",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Horror",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Mystery, Horror",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I like both genres",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "Oh yeah",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "What is the value of movies?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "6.0",
+    "Repeat"
+  ],
+  [
+    "user",
+    "For how long?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "ByeCool!",
+    "End"
+  ],
+  [
+    "user",
+    "Ok",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "What is the value of the movie?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "6.0",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I'll want one",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "The pleasure is mine",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. The Pleasure Is All Mine\n 2. Yours, Mine and Ours\n 3. Yours, Mine & Ours\n 4. The Mine\n 5. Mine\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "4",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Mine. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "I like movies like this",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "Can you get it for me",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "eu quero um",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Generation Um...\n 2. Eu Maior\n 3. Eu N\u00e3o Fa\u00e7o a Menor Ideia do que eu T\u00f4 Fazendo Com a Minha Vida\n 4. Eu Fico Loko\n 5. Toy Story\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "5",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Toy Story. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "The incredibles",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. The Incredibles\n 2. Toy Story\n 3. Jumanji\n 4. Grumpier Old Men\n 5. Waiting to Exhale\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Incredibles. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Eu recomendo que voc\u00ea expanda sua lista de filmes",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Eu N\u00e3o Fa\u00e7o a Menor Ideia do que eu T\u00f4 Fazendo Com a Minha Vida\n 2. Eu Maior\n 3. Eu Fico Loko\n 4. \u00a1Que Viva M\u00e9xico!\n 5. Vai Que D\u00e1 Certo\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "4",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input \u00a1Que Viva M\u00e9xico!. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "I also recommend the amazing, and more genre-animated movies, how much will those types of movies cost, and some adult Buttman movies?",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Documentary, History",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I like these genres, do you have these genres there?",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "The hunt",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. The Hunt\n 2. The Hunt\n 3. Man Hunt\n 4. The Last Hunt\n 5. Death Hunt\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Hunt. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Is there a horror movie?",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Action, Drama",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I like these movies",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "How much does the movie cost?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The budege of this movie is: $0",
+    "Repeat"
+  ],
+  [
+    "user",
+    "All right, I'll want",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ]
+],
+  "1025909371": [
+    [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Inception",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Inception\n 2. Toy Story\n 3. Jumanji\n 4. Grumpier Old Men\n 5. Waiting to Exhale\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Inception. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. III\n 2. House\n 3. Borrowed Time\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input III. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "A small European town, where sisters Ayia and Mirra live, gets struck down by an unknown disease which takes many lives. Following their mother's death, the younger sister falls ill. Having realized that conventional medicine is useless in the face of the sister's disease, Ayia seeks help from Father Herman, a parish priest and a close family friend. In his house she finds books that are very far from the conventional religion. She gets to know that only penetration into Mirra's sick subconscious mind and discovery of the true cause of her disease will give her a chance to save her sister. Ayia is ready to go through this terrifying ritual, dive into the depths of the subconscious mind, and face the demons residing there.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "5.7",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Thank you for your help",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Fantastic! I hope you enjoy it!Fantastic! I hope you enjoy it!",
+    "End"
+  ]
+],
+  "1047672896-2": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Harry Potter",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Harry Potter and the Chamber of Secrets\n 2. Harry Potter and the Order of the Phoenix\n 3. Harry Potter and the Goblet of Fire\n 4. Harry Potter and the Half-Blood Prince\n 5. Harry Potter and the Philosopher's Stone\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Harry Potter and the Chamber of Secrets. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Harry Potter and the Prisoner of Azkaban\n 2. Harry Potter and the Goblet of Fire\n 3. Harry Potter and the Deathly Hallows: Part 1\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "2",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Harry Potter and the Goblet of Fire. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Harry Potter and the Deathly Hallows: Part 1\n 2. Harry Potter and the Deathly Hallows: Part 2\n 3. Harry Potter and the Half-Blood Prince\n\nWhich film do you have an interest? Just paste the name:)",
+    "Similar"
+  ],
+  [
+    "user",
+    "I do not like the recommendations",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Bad boys",
+    "Revise"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "horror favorites",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Adventure, Fantasy, Family",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Movie suggestions",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "How about reviews on the movie IT",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure \u2013 but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "ByeCool!",
+    "End"
+  ]
+],
+  "886585942": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "atonement",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Atonement\n 2. Toy Story\n 3. Jumanji\n 4. Grumpier Old Men\n 5. Waiting to Exhale\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Atonement. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "the book thief",
+    "Revise"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "anna karinina",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Anna\n 2. Anna\n 3. All About Anna\n 4. Anna M.\n 5. Anna and the King\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "anna karenina",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Anna Karenina\n 2. Anna Karenina\n 3. Anna Karenina\n 4. Anna Karenina\n 5. Anna\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Anna Karenina. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Violent City\n 2. Dolan's Cadillac\n 3. The Abandoned\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Violent City. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "recommend movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Action, Crime, Thriller",
+    "Repeat"
+  ],
+  [
+    "user",
+    "budget",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The budege of this movie is: $0",
+    "Repeat"
+  ]
+],
+  "970091685": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Gone with the wind",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "Yes",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "Any recommendation",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. An American Haunting\n 2. Raising Jeffrey Dahmer\n 3. Suffragette\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "Do you have more recommendations",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. An American Haunting\n 2. Raising Jeffrey Dahmer\n 3. Suffragette\n\nWhich film do you have an interest? Just paste the name:)",
+    "Similar"
+  ],
+  [
+    "user",
+    "I dislike it. I want other",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Pacific ring",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Horror",
+    "Repeat"
+  ],
+  [
+    "user",
+    "No action",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Horror",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Okay",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "Recommendations pleasd",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. An American Haunting\n 2. Raising Jeffrey Dahmer\n 3. Suffragette\n\nWhich film do you have an interest? Just paste the name:)",
+    "Similar"
+  ],
+  [
+    "user",
+    "Toy Story",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Got it. You have input Toy Story. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar to pacific ring",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Toy Story 3\n 2. Toy Story 2\n 3. The 40 Year Old Virgin\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Got it. You have input Toy Story 3. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ]
+],
+  "994819411": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Avengers end game",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. End Game\n 2. End of the Game\n 3. The Avengers\n 4. The Avengers\n 5. 3 Avengers\nWhich options matches your title search: 1, 2, 3, 4 or 5",
+    "Clarify"
+  ],
+  [
+    "user",
+    "3",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Avengers. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n\n1. Renaissance\n\n2. F for Fake\n\n3. Donkey X\n\nWhich film do you have an interest? Just paste the number:)",
+    "List"
+  ],
+  [
+    "user",
+    "3",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Donkey X. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Show me the link",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "https://www.imdb.com/title/tt0419704/",
+    "Repeat"
+  ],
+  [
+    "user",
+    "tell me the genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Family, Adventure, Animation",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I prefer action movie",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Family, Adventure, Animation",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I do not like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "My Geisha",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. My Geisha\n 2. The Geisha Boy\n 3. Memoirs of a Geisha\n 4. Tales of a Golden Geisha\n 5. Toy Story\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input My Geisha. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n\n1. IP5: The Island of Pachyderms\n\n2. Out on a Limb\n\n3. Flowing\n\nWhich film do you have an interest? Just paste the number:)",
+    "List"
+  ],
+  [
+    "user",
+    "2",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Out on a Limb. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Comedy",
+    "Repeat"
+  ],
+  [
+    "user",
+    "How is the rating?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "6.1",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "thanks",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Fantastic! I hope you enjoy it!Fantastic! I hope you enjoy it!",
+    "End"
+  ]
+],
+  "964080843": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Return of the jedi",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Return of the Jedi\n 2. Jedi Junkies\n 3. Return to Me\n 4. The Return\n 5. The Return\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Return of the Jedi. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Can you recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. The Empire Strikes Back\n 2. Star Wars: Episode III - Revenge of the Sith\n 3. Star Wars\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "3",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Star Wars Holiday Special. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Adult content",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "This is not an adult movie. You can watch this movie with Kids.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Budget",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The budege of this movie is: $0",
+    "Repeat"
+  ],
+  [
+    "user",
+    "IMDb",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "https://www.imdb.com/title/tt0193524/",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Adventure, Comedy, Family, Science Fiction, TV Movie",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Can you find me a different movie of the same genre",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Adventure, Comedy, Family, Science Fiction, TV Movie",
+    "Repeat"
+  ],
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Stand by me",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Luke Skywalker and Han Solo battle evil Imperial forces to help Chewbacca reach his imperiled family on the Wookiee planet - in time for Life Day, their most important day of the year!",
+    "Repeat"
+  ]
+],
+  "1": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I loved The Beauty and the Beast",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Beauty and the Beast\n 2. Beauty and the Beast\n 3. Beauty and the Beast\n 4. Beauty and the Beast\n 5. Beauty and the Beast\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Beauty and the Beast. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Lace Crater\n 2. ATL\n 3. VeggieTales: Dave and the Giant Pickle\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Lace Crater. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "What is its overview?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "A woman encounters a strange presence in a guest house.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Show me the TMDB links",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "https://www.themoviedb.org/movie/352960",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Oh, it is not bad. I will watch it",
+    "Note"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "I like it",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "Thanks",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Fantastic! I hope you enjoy it!Fantastic! I hope you enjoy it!",
+    "End"
+  ]
+],
+  "2":   [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Don Jon",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Don Jon\n 2. Jon Stewart: Unleavened\n 3. Jon Richardson Live: Nidiot\n 4. Toy Story\n 5. Jumanji\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Don Jon. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. The Barrens\n 2. Louis Theroux: Twilight of the Porn Stars\n 3. Nigdy w \u017cyciu!\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "3",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Nigdy w \u017cyciu!. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Tell me the movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Comedy",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Give me the overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Journey to find true love.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Does it has adult content?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "This is not an adult movie. You can watch this movie with Kids.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Cool",
+    "Note"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Be Cool\n 2. Cool It\n 3. As Cool as I Am\n 4. Not Cool\n 5. Cool!\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "No, I like the last one",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "thanks",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Fantastic! I hope you enjoy it!Fantastic! I hope you enjoy it!",
+    "End"
+  ]
+],
+  "4": [
+    [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Seven",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Seven Up!\n 2. Seven\n 3. Seven Times Seven\n 4. The Last Seven\n 5. Seven Brides for Seven Brothers\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "2",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Seven. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Move genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Action, Drama",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Return of the Seven\n 2. 21 Up\n 3. The 27 Club\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "3",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input The 27 Club. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "What are the movie genres?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "nan",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Mystic River",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "GoodbyeCool!",
+    "End"
+  ],
+  [
+    "user",
+    "Mystic River",
+    "Revise"
+  ],
+  [
+    "agent",
+    "GoodbyeCool!",
+    "End"
+  ],
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Mystic River",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Peace out, homieCool!",
+    "End"
+  ],
+  [
+    "user",
+    "Predestination",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Predestination\n 2. Toy Story\n 3. Jumanji\n 4. Grumpier Old Men\n 5. Waiting to Exhale\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Predestination. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. T2 3-D: Battle Across Time\n 2. White Oleander\n 3. Survivor\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "2",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input White Oleander. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "what are the genres",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Drama",
+    "Repeat"
+  ],
+  [
+    "user",
+    "give me the overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "A teenager journeys through a series of foster homes after her mother goes to prison for committing a crime of passion.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "ok, just it",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ]
+],
+  "5": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "The Dark Night",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Peace out, homieCool!",
+    "End"
+  ],
+  [
+    "user",
+    "Batman",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Batman\n 2. Batman\n 3. Son of Batman\n 4. Batman Forever\n 5. Batman & Bill\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Batman. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Fantasy, Action",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. The Dark Side of the Heart\n 2. Coming Down The Mountain\n 3. Carrie Pilby\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "The Dark Side of the Heart",
+    "Revise"
+  ],
+  [
+    "agent",
+    "7.0",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Coming Down The Mountain",
+    "Revise"
+  ],
+  [
+    "agent",
+    "7.0",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Carrie Pilby",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Carrie Pilby\n 2. Carrie\n 3. Carrie\n 4. Carrie\n 5. Carrie\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Carrie Pilby. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "overvie",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Toy Story\n 2. Jumanji\n 3. Grumpier Old Men\n 4. Waiting to Exhale\n 5. Father of the Bride Part II\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Awkward, isolated and disapproving of most of the people around her, a precocious 19-year-old genius is challenged to put her convictions to the test by venturing out on to the NYC dating scene, in this adaptation of Caren Lissner\u2019s best-selling 2003 novel.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "rating",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "7.0",
+    "Repeat"
+  ],
+  [
+    "user",
+    "genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Drama, Comedy",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I do not like it",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Knight Rider",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Knight Rider\n 2. Ghost Rider\n 3. The Dawn Rider\n 4. Dawn Rider\n 5. Knight and Day\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Knight Rider. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Homage\n 2. Frankenstein\n 3. Black Angel\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Homage. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The young caretaker at the estate of a reclusive woman develops a dangerous obsession with her daughter, a sexy television star. Unexpected twists and turns.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Thriller, Drama",
+    "Repeat"
+  ],
+  [
+    "user",
+    "ok, I can have a try",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ]
+],
+  "6": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "hangover",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. The Hangover\n 2. The Big Hangover\n 3. Hangover Square\n 4. The Hangover Part II\n 5. The Hangover Part III\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Hangover. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Comedy",
+    "Repeat"
+  ],
+  [
+    "user",
+    "overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug \u2013 who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "recommend similar",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Iron Eagle\n 2. The Wedding Ringer\n 3. Guarding Tess\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "2",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Wedding Ringer. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Comedy",
+    "Repeat"
+  ],
+  [
+    "user",
+    "What is it about",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Doug Harris is a loveable but socially awkward groom-to-be with a problem: he has no best man.  With less than two weeks to go until he marries the girl of his dreams, Doug is referred to Jimmy Callahan, owner and CEO of Best Man, Inc., a company that provides flattering best men for socially challenged guys in need.  What ensues is a hilarious wedding charade as they try to pull off the big con, and an unexpected budding bromance between Doug and his fake\n best man Jimmy.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Has adult content?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "This is not an adult movie. You can watch this movie with Kids.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Is it rating good?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "6.5",
+    "Repeat"
+  ],
+  [
+    "user",
+    "cool, I will watch it",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ]
+],
+  "7": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Notebook",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. The Notebook\n 2. The Notebook\n 3. A Wanderer's Notebook\n 4. Toy Story\n 5. Jumanji\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Notebook. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Campus Man\n 2. 18 Year Old Virgin\n 3. A Cry in the Night\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Campus Man. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Comedy",
+    "Repeat"
+  ],
+  [
+    "user",
+    "what was the budget",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The budege of this movie is: $0",
+    "Repeat"
+  ],
+  [
+    "user",
+    "??",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Toy Story\n 2. Jumanji\n 3. Grumpier Old Men\n 4. Waiting to Exhale\n 5. Father of the Bride Part II\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "18 Year Old Virgin",
+    "Revise"
+  ],
+  [
+    "agent",
+    "CiaoCool!",
+    "End"
+  ],
+  [
+    "user",
+    "A Cry in the Night",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Peace out, homieCool!",
+    "End"
+  ],
+  [
+    "user",
+    "I have not finished yet",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Timer",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. TiMER\n 2. The Big Timer\n 3. Toy Story\n 4. Jumanji\n 5. Grumpier Old Men\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input TiMER. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Lollipop Monster\n 2. Cyclomania\n 3. Sadie McKee\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "3",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Sadie McKee. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Drama, Romance",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Tell me the overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "A maid (Joan Crawford) has romances with a two-timer (Gene Raymond), a boozing millionaire and the master (Franchot Tone) of the house.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok, i like it",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ]
+],
+  "8": [
+    [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "justice league",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Justice League\n 2. Justice League Dark\n 3. Justice League: War\n 4. Justice League: Doom\n 5. Justice League: The New Frontier\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Justice League. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Atom Man vs Superman\n 2. A Movie\n 3. Naked Fear\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Atom Man vs Superman. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Is it fantacy movie?",
+    "Inquire"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Action, Science Fiction",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. The Batman Superman Movie: World's Finest\n 2. Lego Batman: The Movie - DC Super Heroes Unite\n 3. Superman IV: The Quest for Peace\n\nWhich film do you have an interest? Just paste the name:)",
+    "Similar"
+  ],
+  [
+    "user",
+    "3",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Superman IV: The Quest for Peace. \\n Ask me about these things: \\n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \\n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "adult movie?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "This is not an adult movie. You can watch this movie with Kids.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "ok",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "Mystery Men",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Action, Science Fiction",
+    "Repeat"
+  ],
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Mystery Men",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Action, Science Fiction",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Hellboy",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Hellboy\n 2. Hellboy II: The Golden Army\n 3. Hellboy Animated: Blood and Iron\n 4. Hellboy: The Seeds of Creation\n 5. Hellboy Animated: Iron Shoes\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Hellboy. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies,",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Hellboy: The Seeds of Creation\n 2. Hellboy Animated: Iron Shoes\n 3. Hellboy II: The Golden Army\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "3",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Hellboy II: The Golden Army\n 2. Hellboy\n 3. In the Army Now\n 4. This Is the Army\n 5. Army\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Subset"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Hellboy II: The Golden Army. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Hellboy\n 2. Percy Jackson: Sea of Monsters\n 3. Transmorphers\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "2",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Percy Jackson: Sea of Monsters. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Adventure, Family, Fantasy",
+    "Repeat"
+  ],
+  [
+    "user",
+    "rating?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "5.9",
+    "Repeat"
+  ],
+  [
+    "user",
+    "ok, thanks",
+    "Note"
+  ],
+  [
+    "agent",
+    "Fantastic! I hope you enjoy it!Fantastic! I hope you enjoy it!",
+    "Record"
+  ]
+],
+  "9": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "JUMANJI",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Jumanji\n 2. Toy Story\n 3. Grumpier Old Men\n 4. Waiting to Exhale\n 5. Father of the Bride Part II\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Jumanji. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Table No. 21\n 2. Quiz\n 3. Snowed Under\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "Table No. 21",
+    "Subset"
+  ],
+  [
+    "agent",
+    "This is not an adult movie. You can watch this movie with Kids.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Quiz",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Quiz\n 2. Quiz Show\n 3. Toy Story\n 4. Jumanji\n 5. Grumpier Old Men\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Quiz. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Could you give the overview?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "A famous game show host is being harassed in a restaurant by a strange man who claims to have kidnapped his wife and daughter. A morbid game ensues in which the game show host turns out to be the contestant.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Which genre?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Drama, Thriller",
+    "Repeat"
+  ],
+  [
+    "user",
+    "ok, thanks",
+    "Note"
+  ],
+  [
+    "agent",
+    "Fantastic! I hope you enjoy it!Fantastic! I hope you enjoy it!",
+    "Record"
+  ]
+],
+  "10": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Deicide - Death Metal Murders Documentary",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Metal Brothers\n 2. Metal Skin\n 3. Little Murders\n 4. Heavy Metal\n 5. The River Murders\nWhich options matches your title search: 1, 2, 3, 4 or 5",
+    "Clarify"
+  ],
+  [
+    "user",
+    "no",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Toy Story\n 2. Jumanji\n 3. Grumpier Old Men\n 4. Waiting to Exhale\n 5. Father of the Bride Part II\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "Metal: A Headbanger's Journey",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Metal: A Headbanger's Journey\n 2. The Journey\n 3. The Journey\n 4. The Journey\n 5. The Journey\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Metal: A Headbanger's Journey. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Global Metal\n 2. Get Thrashed\n 3. The Decline of Western Civilization Part II: The Metal Years\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Global Metal. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "I need the overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "In GLOBAL METAL, directors Scot McFadyen and Sam Dunn set out to discover how the West's most maligned musical genre - heavy metal - has impacted the world's cultures beyond Europe and North America. The film follows metal fan and anthropologist Sam Dunn on a whirlwind journey through Asia, South America and the Middle East as he explores the underbelly of the world's emerging extreme music scenes; from Indonesian death metal to Chinese black metal to Iranian thrash metal. GLOBAL METAL reveals a worldwide community of metalheads who aren't just absorbing metal from the West - they're transforming it - creating a new form of cultural expression in societies dominated by conflict, corruption and mass-consumerism.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "rating?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "7.6",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I am interested",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ]
+],
+  "11": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Metal: A Headbanger's Journey",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Metal: A Headbanger's Journey\n 2. The Journey\n 3. The Journey\n 4. The Journey\n 5. The Journey\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Metal: A Headbanger's Journey. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Global Metal\n 2. Get Thrashed\n 3. The Decline of Western Civilization Part II: The Metal Years\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "Global Metal",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Global Metal\n 2. Metal Brothers\n 3. Metal Skin\n 4. Heavy Metal\n 5. Sushi: The Global Catch\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Global Metal. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "give me the overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "In GLOBAL METAL, directors Scot McFadyen and Sam Dunn set out to discover how the West's most maligned musical genre - heavy metal - has impacted the world's cultures beyond Europe and North America. The film follows metal fan and anthropologist Sam Dunn on a whirlwind journey through Asia, South America and the Middle East as he explores the underbelly of the world's emerging extreme music scenes; from Indonesian death metal to Chinese black metal to Iranian thrash metal. GLOBAL METAL reveals a worldwide community of metalheads who aren't just absorbing metal from the West - they're transforming it - creating a new form of cultural expression in societies dominated by conflict, corruption and mass-consumerism.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "tmdb LINKS",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "https://www.themoviedb.org/movie/16919",
+    "Repeat"
+  ],
+  [
+    "user",
+    "oK, I will watch",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Have funCool!",
+    "End"
+  ]
+],
+  "12": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "American transformer",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. American Me\n 2. The American\n 3. My All American\n 4. American Psycho 2: All American Girl\n 5. American Movie\nWhich options matches your title search: 1, 2, 3, 4 or 5",
+    "Clarify"
+  ],
+  [
+    "user",
+    "Transformer",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Toy Story\n 2. Jumanji\n 3. Grumpier Old Men\n 4. Waiting to Exhale\n 5. Father of the Bride Part II\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clairfy"
+  ],
+  [
+    "user",
+    "Friends",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Peace out, homieCool!",
+    "End"
+  ],
+  [
+    "user",
+    "Movie",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Movie\" does not exists. Please change a different movie.",
+    "Clarify"
+  ],
+  [
+    "user",
+    "Call me by your name",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Call Me by Your Name\n 2. In Name Only\n 3. Your Name.\n 4. In the Name of...\n 5. The Call\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Call Me by Your Name. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Young & Beautiful\n 2. The King and Queen of Moonlight Bay\n 3. Drifters\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "Young & Beautiful",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "Give me the genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Romance, Drama",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Give me the overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Elio Perlman is spending the summer with his family at their vacation home in Lombardy, Italy. When his father hires a handsome doctoral student, the curious 17-year-old finds himself developing a growing attraction to the young man.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I meant Young & Beautiful",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "The King and Queen of Moonlight Bay",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. The King and Queen of Moonlight Bay\n 2. On Moonlight Bay\n 3. The Bay\n 4. Moonlight\n 5. The Queen\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input The King and Queen of Moonlight Bay. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Tell me the genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Drama, Family",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Tell me the overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Alison Dodge, a 17-year old raised by her mother, decides on her own to spend her last summer before college getting to know her father",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Send me the link",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "https://www.imdb.com/title/tt0342639/",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Ok, i like this film",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ]
+],
+  "13": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Matrix",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. The Matrix\n 2. The Matrix Revisited\n 3. The Matrix Reloaded\n 4. The Matrix Revolutions\n 5. Armitage: Dual Matrix\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Matrix. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. A Detective Story\n 2. Kid's Story\n 3. World Record\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Detective Story. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Can you tell the overveiw",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Tells the story of one day in the lives of the various people who populate a police detective squad. An embittered cop, Det. Jim McLeod (Douglas), leads a precinct of characters in their grim daily battle with the city's lowlife. The characters who pass through the precinct over the course of the day include a young petty embezzler, a pair of burglars, and a naive shoplifter.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "and genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Crime, Drama",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I do not like drama",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "Crime, Drama",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I do not like this movie",
+    "Note-dislike"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Matrix 1",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Any movie from Keanu Reeves",
+    "Revise"
+  ],
+  [
+    "agent",
+    "This is not an adult movie. You can watch this movie with Kids.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Home alone 1",
+    "Revise"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Harry pottery",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Wild About Harry\n 2. Harry & Son\n 3. Dirty Harry\n 4. The Trouble with Harry\n 5. Harry Brown\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "Lord of ring",
+    "Subset"
+  ],
+  [
+    "agent",
+    "This is not an adult movie. You can watch this movie with Kids.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "Have funCool!",
+    "End"
+  ]
+],
+  "14": [
+    [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Spiderman",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Spider-Man\n 2. Spider-Man 2\n 3. Spider-Man 3\n 4. The Amazing Spider-Man\n 5. The Amazing Spider-Man 2\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Spider-Man. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Spider-Man 3\n 2. The Amazing Spider-Man 2\n 3. Immortal\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "3",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Immortal. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Genre?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Drama, Action, Science Fiction",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I like fiction",
+    "Note"
+  ],
+  [
+    "agent",
+    "Drama, Action, Science Fiction",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Give me the overveiw",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "New York City in the year 2095 where genetically altered humans live side by side with unaltered men and women.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Cool",
+    "Note"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "GoodbyeCool!",
+    "End"
+  ]
+],
+  "15": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Halloween 3",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Halloween 3\" does not exists. Please change a different movie.",
+    "Clarify"
+  ],
+  [
+    "user",
+    "Oceans eleven",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Ocean's Eleven\n 2. Ocean's Eleven\n 3. Oceans\n 4. Between Eleven and Midnight\n 5. The Light Between Oceans\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Ocean's Eleven. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Devil's Gate\n 2. Uncle Bob\n 3. I Am Not Madame Bovary\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "1",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Devil's Gate. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Science Fiction, Thriller",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Can you give the overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Set in the small town of Devil's Gate, North Dakota, the film examines the disappearance of a local woman and her young son. Schull plays an FBI agent who helps the local sheriff search for answers. Partnering with a deputy , they track down the missing woman's husband and find that nothing is as it seems.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "has adult content?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "This is not an adult movie. You can watch this movie with Kids.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "I like it",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ],
+  [
+    "user",
+    "bye",
+    "Complete"
+  ],
+  [
+    "agent",
+    "ByeCool!",
+    "End"
+  ]
+],
+  "16": [
+  [
+    "user",
+    "hello",
+    "Non-disclose"
+  ],
+  [
+    "agent",
+    "Please enter a movie name to begin",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Kung fu panda",
+    "Disclose"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Kung Fu Panda\n 2. Kung Fu Panda 2\n 3. Kung Fu Panda 3\n 4. Kung Fu Panda Holiday\n 5. Kung Fu Panda: Secrets of the Masters\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input Kung Fu Panda. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "overview",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "What is the rating?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "6.9",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Recommend some movie please",
+    "List"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Kung Fu Panda 2\n 2. Kung Fu Panda: Secrets of the Masters\n 3. Kung Fu Panda Holiday\n\nWhich film do you have an interest? Just paste the name:)",
+    "List"
+  ],
+  [
+    "user",
+    "Do you have other movies?",
+    "Similar"
+  ],
+  [
+    "agent",
+    "..ummm. Can you input an different movie to restart?",
+    "Elicit"
+  ],
+  [
+    "user",
+    "Terminator",
+    "Revise"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. The Terminator\n 2. Lady Terminator\n 3. Russian Terminator\n 4. Terminator Salvation\n 5. Terminator Genisys\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "1",
+    "Refine"
+  ],
+  [
+    "agent",
+    "Got it. You have input The Terminator. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Show"
+  ],
+  [
+    "user",
+    "movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Action, Thriller, Science Fiction",
+    "Repeat"
+  ],
+  [
+    "user",
+    "please recommend some movies",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Terminator 2: Judgment Day\n 2. Terminator Salvation\n 3. Terminator 3: Rise of the Machines\n\nWhich film do you have an interest? Just paste the name:)",
+    "Similar"
+  ],
+  [
+    "user",
+    "2",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Terminator Salvation. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "Recommend similar movies",
+    "Similar"
+  ],
+  [
+    "agent",
+    "Here are a couple of movies for you!\n 1. Terminator 3: Rise of the Machines\n 2. Terminator 2: Judgment Day\n 3. Terminator Genisys\n\nWhich film do you have an interest? Just paste the name:)",
+    "Similar"
+  ],
+  [
+    "user",
+    "3",
+    "Subset"
+  ],
+  [
+    "agent",
+    "Got it. You have input Terminator Genisys. \n Ask me about these things: \n Recommend similar movies, movie genre, overview, budget, revenue, rating, IMDB or TMDB links, adult content. \n Go on! I am prepared to answer your questions.",
+    "Subset"
+  ],
+  [
+    "user",
+    "movie genre",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "Science Fiction, Action, Thriller, Adventure",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Overview?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Has adult content?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "This is not an adult movie. You can watch this movie with Kids.",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Revenue?",
+    "Repeat"
+  ],
+  [
+    "agent",
+    "The revenue of this movie is $440,603,537",
+    "Repeat"
+  ],
+  [
+    "user",
+    "Wow",
+    "Note"
+  ],
+  [
+    "agent",
+    "Search results:\n 1. Wow! A Talking Fish!\n 2. Toy Story\n 3. Jumanji\n 4. Grumpier Old Men\n 5. Waiting to Exhale\nWhich options matches your title search -----: 1, 2, 3, 4 or 5\nType a new one if none matches!",
+    "Clarify"
+  ],
+  [
+    "user",
+    "I like the movie",
+    "Note"
+  ],
+  [
+    "agent",
+    "Great! I am happy you like it!",
+    "Record"
+  ]
+]
+}

@@ -1,5 +1,7 @@
 # Evaluating Conversational Recommender Systems via User Simulation
 
+[![Documentation Status](https://readthedocs.org/projects/usersimconvrec/badge/?version=latest)](https://usersimconvrec.readthedocs.io/en/latest/?badge=latest)
+
 This repository contains resources developed within the following paper:
 
 > S. Zhang and K. Balog. Evaluating Conversational Recommender Systems via User Simulation. In: *Proceedings of 26th SIGKDD Conference on Knowledge Discovery and Data Mining*, August 22 - 27, 2020 - San Diego, CA - USA..

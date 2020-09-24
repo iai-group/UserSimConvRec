@@ -2,7 +2,7 @@ Installation
 ============
 
 UserSimConvRec
-------------------
+--------------
 - To use UserSimConvRec, one must xxx
 
 Python Libraries

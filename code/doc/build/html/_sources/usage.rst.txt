@@ -1,8 +1,8 @@
 Usage
 =====
 
-Running *IAI MovieBot*
-----------------------
+Running *ConverRecSimulator*
+----------------------------
 
 .. code-block:: shell
 

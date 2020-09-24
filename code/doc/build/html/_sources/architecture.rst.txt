@@ -1,6 +1,6 @@
-MovieBot architecture
-=====================
+Simulation Architecture
+=======================
 
-The main architecture is shown in the figure below. A multi-turn conversation is initiated and terminated by the users. The users' response is processed by the NLU. The DM receives the users' dialogue acts from the NLU and generates the agent's dialogue acts. Based on the act from DM, the NLG generates a natural response to the users. This loop happens for each turn in the conversation.
+The main architecture is shown in the figure below. A multi-turn conversation simulator is initiated. The agent's response is processed by the NLU. The response generation module receives the agents' dialogue acts from the NLU and generates the user's dialogue acts. Based on the act from response generation, the NLG generates a natural response to the agents. This loop happens for each turn in the conversation.
 
 .. image:: _static/simulator_anatomy.pdf

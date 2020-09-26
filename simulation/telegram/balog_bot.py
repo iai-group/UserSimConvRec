@@ -11,8 +11,8 @@ import json
 import requests
 import time
 import urllib
-from code.telegram.dbhelper import DBHelper
-from code.telegram import TOKEN, URL
+from simulation.telegram.dbhelper import DBHelper
+from simulation.telegram import TOKEN, URL
 
 db = DBHelper()
 

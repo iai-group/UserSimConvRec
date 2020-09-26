@@ -12,7 +12,13 @@ Download the movieLen dataset [here](https://www.kaggle.com/rounakbanik/movie-re
 
 ## Bot
 
-Movie bot: Follow this [link](https://github.com/Sundar0989/Movie_Bot) to set up the bot. The workspace file for training the agent on IBM lies `code/data/IBM_workspace.json`.
+In this paper, we investigate serveral movie chat bots like movie bot, and chill and jmrs.
+
+* jmrs is provided in `simulation/bot`.
+
+* Given the access restrictions, we do not provide the wrapper for Andchill.
+
+* Movie bot: Follow this [link](https://github.com/Sundar0989/Movie_Bot) to set up the bot for your own interest. The workspace file for training the agent on IBM lies `code/data/IBM_workspace.json`.
 
 ## Citation
 ```

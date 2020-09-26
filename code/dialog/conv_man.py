@@ -7,18 +7,18 @@ Author: Shuo Zhang, Krisztian Balog
 
 from code.bot.jmrs1.ConversationalAgent.ConversationalSingleAgent import \
     ConversationalSingleAgent
-from code.nlp.movies.movies_nlg import RESPONSE_TEMPLATES_MS, RESPONSE_TEMPLATES_MB, RESPONSE_TEMPLATES_AC
+from code.nlp.movies.movies_nlg import RESPONSE_TEMPLATES_MS
 from code.user.movies.movies_simulated_user import MovieSimulatedUser
 from code.user.human_user import HumanUser
 from code.bot.and_chill import Botbot
-from code.telegram.balog_bot import *
 import json
 import configparser
-import yaml
+import random
 import sys
 import os.path
 import time
-import random
+import yaml
+
 
 USER_TAG, AGENT_TAG = "user", "agent"
 
@@ -30,7 +30,6 @@ class ConversationManager:
         self._user = user
         self._bot = bot
         self._history = []  # record the chats
-        self._bb = BalogBot()
         self._chat = None
 
     def run_single_agent(self, config):
@@ -44,8 +43,6 @@ class ConversationManager:
         ca = ConversationalSingleAgent(config)
         ca.initialize()
 
-        print('=======================================\n')
-
         last_update_id = None
         while True:
             updates = self._bb.get_updates(last_update_id)
@@ -55,7 +52,7 @@ class ConversationManager:
                     text = update["message"]["text"]
                     chat = update["message"]["chat"]["id"]
                     self._chat = chat
-                    self._history = [i for i in self._history if i[2]==self._chat]
+                    self._history = [i for i in self._history if i[2] == self._chat]
                     self._history.append(["user", text, chat])
                     if text.lower() == "hi" or text.lower() == "hello" or text.lower() == "go":
                         system_utterance = ca.start_dialogue()
@@ -97,7 +94,8 @@ class ConversationManager:
         result["dialog"].append([USER_TAG, "Hello", "Non-disclose"])
         while True:
             print("USER: {}.   [{}]".format(user_utterance, self._user._current_intent))
-            if user_utterance and user_utterance.lower() == "hi" or user_utterance.lower() == "hello" or user_utterance.lower() == "go":
+            if user_utterance and user_utterance.lower() == "hi" or \
+                    user_utterance.lower() == "hello" or user_utterance.lower() == "go":
                 system_utterance = ca.start_dialogue()
                 sys_intent = ["Elicit"]
             elif user_utterance.lower() == "stop":
@@ -182,7 +180,8 @@ if __name__ == "__main__":
         user = HumanUser()  # change here to use a simulated user
         bot = Botbot()
         conv_man = ConversationManager(user, bot)
-        args = ['','-config', os.path.join(os.path.abspath("./.."), "kdd2020-userSim/code/bot/jmrs1/config/movies_text.yaml")]
+        args = ['','-config', os.path.join(os.path.abspath("./.."),
+                "kdd2020-userSim/code/bot/jmrs1/config/movies_text.yaml")]
         args = arg_parse(args)
         cfg_parser = args['cfg_parser']
         dialogues = args['dialogues']

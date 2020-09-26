@@ -7,7 +7,7 @@ Author: Krisztian Balog, Shuo Zhang
 """
 
 from code.nlp.nlg import NLG
-from code.nlp.movies import *
+from code.nlp.movies import RESPONSE_TEMPLATES
 import random
 
 

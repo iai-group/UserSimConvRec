@@ -7,7 +7,7 @@ Author: Shuo Zhang, Krisztian Balog
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from code.nlp.movies import *
+# from code.nlp.movies import *
 from nltk.tokenize import word_tokenize
 from code.nlp.nlu import NLU
 import pandas as pd
@@ -18,10 +18,10 @@ PRE_FILE = "code/data/metadata_prep.csv"
 
 class MoviesNLU(NLU):
     """Movies NLU"""
-
     def __init__(self):
         super(NLU, self).__init__()
-        self.metadata, self.titles_all, self.tfidf_fit_nlu, self.tfidf_matrix_nlu = self.naive_index()
+        self.metadata, self.titles_all, self.tfidf_fit_nlu, \
+        self.tfidf_matrix_nlu = self.naive_index()
 
     def naive_index(self):
         """Loads MovieLens dataset as local index."""
@@ -54,7 +54,7 @@ class MoviesNLU(NLU):
         """Finds the pattern by checking the prefix, i.e., checking the terms by splitting."""
         prefix_list = UTTERANCE_PATTERN
         for i in range(len(utterance.split())):
-            # Extend prefix by pointing the next term, and keep utterances still having the same prefix
+            # Extend prefix by pointing the next term, and keep utterances having the same prefix
             current_prefix_list = [j for j in prefix_list if utterance.split()[i] == j.split()[i]]
             prefix_list = current_prefix_list
             if len(prefix_list) == 1:
@@ -64,8 +64,8 @@ class MoviesNLU(NLU):
 
     def link_entity(self, sf, id=None):
         """Links entity for the given surface form"""
-        a = list(
-            cosine_similarity(self.tfidf_fit_nlu.transform([self.text_prepare(sf)]), self.tfidf_matrix_nlu.tocsr())[0])
+        a = list(cosine_similarity(self.tfidf_fit_nlu.transform([self.text_prepare(sf)]),
+                                   self.tfidf_matrix_nlu.tocsr())[0])
         b = sorted(range(len(a)), key=lambda i: a[i], reverse=True)[:1][0]
         return self.titles_all[b] if not id else b  # return title or id
 
@@ -75,7 +75,9 @@ class MoviesNLU(NLU):
         return [(text, sf, self.link_entity(sf), self.movie_genre(sf)) for sf in sfs]
 
     def extract_sf(self, text):
-        """Based on the recorded utterance patterns (cf. UTTERANCE_PATTERN), locate and extract surface forms for movie titles"""
+        """Based on the recorded utterance patterns
+        (cf. UTTERANCE_PATTERN), locate and extract
+        surface forms for movie titles"""
         pattern = self.find_pattern(utterance=text)
         p = re.compile(pattern).findall(text)
         return p if isinstance(p[0], str) else list(p[0])
@@ -83,7 +85,8 @@ class MoviesNLU(NLU):
     def movie_genre(self, title):
         """Finds movie genre based on movie title."""
         try:
-            res = str(self.metadata[self.metadata['title'] == title]['genres'].values[0]).split(", ")
+            res = str(self.metadata[self.metadata['title'] == title]
+                      ['genres'].values[0]).split(", ")
         except Exception:
             res = []
         return res

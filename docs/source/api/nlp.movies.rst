@@ -1,21 +1,21 @@
-code.telegram package
-=====================
+nlp.movies package
+==================
 
 Submodules
 ----------
 
-code.telegram.balog\_bot module
--------------------------------
+nlp.movies.movies\_nlg module
+-----------------------------
 
-.. automodule:: code.telegram.balog_bot
+.. automodule:: nlp.movies.movies_nlg
    :members:
    :undoc-members:
    :show-inheritance:
 
-code.telegram.dbhelper module
+nlp.movies.movies\_nlu module
 -----------------------------
 
-.. automodule:: code.telegram.dbhelper
+.. automodule:: nlp.movies.movies_nlu
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ code.telegram.dbhelper module
 Module contents
 ---------------
 
-.. automodule:: code.telegram
+.. automodule:: nlp.movies
    :members:
    :undoc-members:
    :show-inheritance:

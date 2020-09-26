@@ -1,13 +1,13 @@
-code.dialog package
+user.movies package
 ===================
 
 Submodules
 ----------
 
-code.dialog.conv\_man module
-----------------------------
+user.movies.movies\_simulated\_user module
+------------------------------------------
 
-.. automodule:: code.dialog.conv_man
+.. automodule:: user.movies.movies_simulated_user
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ code.dialog.conv\_man module
 Module contents
 ---------------
 
-.. automodule:: code.dialog
+.. automodule:: user.movies
    :members:
    :undoc-members:
    :show-inheritance:

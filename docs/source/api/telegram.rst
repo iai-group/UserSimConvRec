@@ -1,21 +1,21 @@
-code.bot package
+telegram package
 ================
 
 Submodules
 ----------
 
-code.bot.and\_chill module
+telegram.balog\_bot module
 --------------------------
 
-.. automodule:: code.bot.and_chill
+.. automodule:: telegram.balog_bot
    :members:
    :undoc-members:
    :show-inheritance:
 
-code.bot.bot module
--------------------
+telegram.dbhelper module
+------------------------
 
-.. automodule:: code.bot.bot
+.. automodule:: telegram.dbhelper
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ code.bot.bot module
 Module contents
 ---------------
 
-.. automodule:: code.bot
+.. automodule:: telegram
    :members:
    :undoc-members:
    :show-inheritance:

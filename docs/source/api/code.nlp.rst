@@ -5,8 +5,9 @@ Subpackages
 -----------
 
 .. toctree::
+   :maxdepth: 4
 
-    code.nlp.movies
+   code.nlp.movies
 
 Submodules
 ----------
@@ -15,23 +16,22 @@ code.nlp.nlg module
 -------------------
 
 .. automodule:: code.nlp.nlg
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 code.nlp.nlu module
 -------------------
 
 .. automodule:: code.nlp.nlu
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 Module contents
 ---------------
 
 .. automodule:: code.nlp
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   :members:
+   :undoc-members:
+   :show-inheritance:

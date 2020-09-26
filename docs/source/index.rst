@@ -17,6 +17,7 @@ In: Proceedings of 26th SIGKDD Conference on Knowledge Discovery and Data Mining
    installation
    usage
    architecture
+   Python package documentation <api/simulation>
    contact
 
 

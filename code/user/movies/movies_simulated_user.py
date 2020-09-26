@@ -372,8 +372,8 @@ def file_process(file="1224_ms.json"):
 
 
 if __name__ == "__main__":
-    msu = MovieSimulatedUser(file="code/data/1224_ms.json", response_tempt=RESPONSE_TEMPLATES_AC, mode="ms")
+    msu = MovieSimulatedUser(file="data/1224_ms.json", response_tempt=RESPONSE_TEMPLATES_AC, mode="ms")
     msu.user.print_user()
     agenda_list, agenda_stat, agenda_stat_qrfa, intent_map, agent_user_intent, tfidf_matrix, tfidf_fit = file_process(
-        file="code/data/1224_ms.json")
+        file="data/1224_ms.json")
     msu.init_agenda_qrfa_test()

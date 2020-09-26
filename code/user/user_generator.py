@@ -22,8 +22,8 @@ import csv
 import os
 
 MOVIELEN_PATH = ""
-MOVIE_FILE = "code/data/movies.csv"
-RATING_FILE = "code/data/ratings.csv"
+MOVIE_FILE = "data/movies.csv"
+RATING_FILE = "data/ratings.csv"
 
 
 class UserGenerator:

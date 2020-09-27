@@ -5,13 +5,13 @@ Simple NLU for the movie domain
 Author: Shuo Zhang, Krisztian Balog
 """
 
+import re
+import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from simulation.nlp.movies import REPLACE_BY_SPACE_RE, BAD_SYMBOLS_RE, UTTERANCE_PATTERN
 from nltk.tokenize import word_tokenize
+from simulation.nlp.movies import REPLACE_BY_SPACE_RE, BAD_SYMBOLS_RE, UTTERANCE_PATTERN
 from simulation.nlp.nlu import NLU
-import pandas as pd
-import re
 
 PRE_FILE = "data/metadata_prep.csv"
 
@@ -70,7 +70,8 @@ class MoviesNLU(NLU):
                 text = text.replace(tag, "")
         return text
 
-    def find_pattern(self, utterance):
+    @staticmethod
+    def find_pattern(utterance):
         """Finds the pattern by checking the prefix, i.e., checking the terms by splitting.
 
         Args:

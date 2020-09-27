@@ -6,8 +6,8 @@ Simple NLG for the movie domain
 Author: Krisztian Balog, Shuo Zhang
 """
 
-from code.nlp.nlg import NLG
-from code.nlp.movies import RESPONSE_TEMPLATES
+from simulation.nlp.nlg import NLG
+from simulation.nlp.movies import RESPONSE_TEMPLATES
 import random
 
 

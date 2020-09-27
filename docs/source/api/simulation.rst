@@ -7,6 +7,7 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
+   simulation.nlp
    simulation.telegram
 
 Module contents

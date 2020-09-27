@@ -9,11 +9,11 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 # from code.nlp.movies import *
 from nltk.tokenize import word_tokenize
-from code.nlp.nlu import NLU
+from simulation.nlp.nlu import NLU
 import pandas as pd
 import re
 
-PRE_FILE = "code/data/metadata_prep.csv"
+PRE_FILE = "data/metadata_prep.csv"
 
 
 class MoviesNLU(NLU):

@@ -36,4 +36,4 @@ In this paper, we investigate serveral movie chat bots like movie bot, and chill
 ```
 
 ## Contact
-If you have any questions, please contact Shuo Zhang at imsure318@gmail.com.
+If you have any questions, please contact Shuo Zhang at imsure318@gmail.com or Krisztian Balog at krisztian.balog@uis.no.

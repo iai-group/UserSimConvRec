@@ -8,34 +8,56 @@ Author: Shuo Zhang
 """
 
 import json
-import requests
 import time
 import urllib
+import requests
 from simulation.telegram.dbhelper import DBHelper
-from simulation.telegram import TOKEN, URL
+from simulation.telegram import URL
 
 db = DBHelper()
 
 
 class BalogBot:
+    """Telegram channel"""
     def __init__(self):
         db.setup()
 
     @staticmethod
     def get_url(url):
-        """Downloads the content from a URL and returns a string"""
+        """Downloads the content from a URL and returns a string.
+
+        Args:
+            url: url
+
+        Returns: a string
+
+        """
         response = requests.get(url)
         content = response.content.decode("utf8")
         return content
 
     def get_json_from_url(self, url):
-        """Gets the string response and parses it into a Python dictionary """
+        """Gets the string response and parses it into a Python dictionary
+
+        Args:
+            url: url
+
+        Returns: response in json
+
+        """
         content = self.get_url(url)
         js = json.loads(content)
         return js
 
     def get_updates(self, offset=None):
-        """Calls the API and retrieves a list of updates"""
+        """Calls the API and retrieves a list of updates
+
+        Args:
+            offset: offset
+
+        Returns: recent updates in a list
+
+        """
         url = URL + "getUpdates"
         if offset:
             url += "?offset={}".format(offset)
@@ -44,13 +66,26 @@ class BalogBot:
 
     @staticmethod
     def get_last_update_id(updates):
-        """Gets the last chat ID"""
+        """
+
+        Args:
+            updates: updates
+
+        Returns: last chat id
+
+        """
         update_ids = []
         for update in updates["result"]:
             update_ids.append(int(update["update_id"]))
         return max(update_ids)
 
     def handle_updates(self, updates):
+        """Handle the updates
+
+        Args:
+            updates: updates
+
+        """
         for update in updates["result"]:
             text = update["message"]["text"]
             chat = update["message"]["chat"]["id"]
@@ -60,7 +95,8 @@ class BalogBot:
                 self.send_message("Select an item to delete", chat, keyboard)
             elif text == "/start":
                 self.send_message(
-                    "Welcome to your personal To Do list. Send any text to me and I'll store it as an item. Send /done to remove items",
+                    "Welcome to your personal To Do list. Send any text to me and "
+                    "I'll store it as an item. Send /done to remove items",
                     chat)
             elif text.startswith("/"):
                 continue
@@ -77,6 +113,14 @@ class BalogBot:
 
     @staticmethod
     def get_last_chat_id_and_text(updates):
+        """
+
+        Args:
+            updates: updates
+
+        Returns: (text, chat id)
+
+        """
         num_updates = len(updates["result"])
         last_update = num_updates - 1
         text = updates["result"][last_update]["message"]["text"]
@@ -85,11 +129,27 @@ class BalogBot:
 
     @staticmethod
     def build_keyboard(items):
+        """
+
+        Args:
+            items: input items
+
+        Returns: reply markup
+
+        """
         keyboard = [[item] for item in items]
         reply_markup = {"keyboard": keyboard, "one_time_keyboard": True}
         return json.dumps(reply_markup)
 
     def send_message(self, text, chat_id, reply_markup=None):
+        """
+
+        Args:
+            text: text
+            chat_id: chat id
+            reply_markup: reply markup
+
+        """
         text = urllib.parse.quote_plus(text)
         url = URL + "sendMessage?text={}&chat_id={}&parse_mode=Markdown".format(text, chat_id)
         if reply_markup:

@@ -6,9 +6,9 @@ Simple NLG for the movie domain
 Author: Krisztian Balog, Shuo Zhang
 """
 
+import random
 from simulation.nlp.nlg import NLG
 from simulation.nlp.movies import RESPONSE_TEMPLATES
-import random
 
 
 class MoviesNLG(NLG):
@@ -19,7 +19,15 @@ class MoviesNLG(NLG):
         self._res_tempt = response_template
 
     def generate_response_text(self, intent, arguments=None):
-        """Generate textual response."""
+        """
+
+        Args:
+            intent: agent intent
+            arguments:
+
+        Returns: response text
+
+        """
         if intent not in self._res_tempt:
             print('Exception in intent', intent)
             return None
@@ -41,9 +49,9 @@ if __name__ == "__main__":
     # example usage
     # Note: there should be a response generator class that generates a structured response
     # with an intent (key in RESPONSE_TEMPLATES) and optional arguments.
-    print(nlg.generate_response_text("ask_genre"))
-    print(nlg.generate_response_text("ask_movie_about"))
-    print(nlg.generate_response_text("preference_actor_like", {"actor": "Brad Pitt"}))
-    print(nlg.generate_response_text("preference_genre_like", {"genre": "action"}))
+    # print(nlg.generate_response_text("ask_genre"))
+    # print(nlg.generate_response_text("ask_movie_about"))
+    # print(nlg.generate_response_text("preference_actor_like", {"actor": "Brad Pitt"}))
+    # print(nlg.generate_response_text("preference_genre_like", {"genre": "action"}))
     # This one is just to illustrate a response with multiple arguments
-    print(nlg.generate_response_text("book_tickets", {"day": "Friday", "time": "20:00"}))
+    # print(nlg.generate_response_text("book_tickets", {"day": "Friday", "time": "20:00"}))

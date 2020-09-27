@@ -16,14 +16,24 @@ INTENT_MOVIE_LIST = [
 ]
 
 UTTERANCE_PATTERN = {
-    "Search results: 1. (.*) 2. (.*) 3. (.*) 4. (.*) 5. (.*)Which options matches your title search -----g-: 1, 2, 3, 4 or 5Type a new one if none matches!": "1\. (.*) 2\. (.*) 3\. (.*) 4\. (.*) 5\. (.*)Which options matches",
-    "Here are a couple of movies for you! 1. (.*) 2. (.*) 3. (.*)Which film do you have an interest? Just paste the name": "1\. (.*)2\. (.*)3\. (.*)Which film do you have",
-    'There is a movie named "(.*)". Have you watched it?': 'There is a movie named "(.*)". Have you watched it?',
-    'Have you watched "(.*)"? It can be a good recommendation.': 'Have you watched "(.*)"\? It can be a good recommendation.',
-    'Thank you for your feedback. There is a movie named "(.*)". Have you watched it?': 'Thank you for your feedback. There is a movie named "(.*)". Have you watched it?',
-    'Thank you for reviewing the movie. There is a movie named "(.*)". Have you watched it?': 'Thank you for reviewing the movie. There is a movie named "(.*)". Have you watched it?',
-    'Thank you for reviewing the movie. Have you watched "(.*)"? It can be a good recommendation.': 'Thank you for reviewing the movie. Have you watched "(.*)"\? It can be a good recommendation.',
-    'Thank you for your feedback. Have you watched "(.*)"? It can be a good recommendation.': 'Thank you for your feedback. Have you watched "(.*)"\? It can be a good recommendation.',
+    "Search results: 1. (.*) 2. (.*) 3. (.*) 4. (.*) 5. (.*)Which options matches your title "
+    "search -----g-: 1, 2, 3, 4or 5Type a new one if none matches!":
+        "1\. (.*) 2\. (.*) 3\. (.*) 4\. (.*) 5\. (.*)Which options matches",
+    "Here are a couple of movies for you! 1. (.*) 2. (.*) 3. (.*)Which film do you have an "
+    "interest? Just paste the name": "1\. (.*)2\. (.*)3\. (.*)Which film do you have",
+    'There is a movie named "(.*)". Have you watched it?': 'There is a movie named "(.*)". '
+                                                           'Have you watched it?',
+    'Have you watched "(.*)"? It can be a good recommendation.': 'Have you watched "(.*)"\? '
+                                                                 'It can be a good recommendation.',
+    'Thank you for your feedback. There is a movie named "(.*)". Have you watched it?':
+        'Thank you for your feedback. There is a movie named "(.*)". Have you watched it?',
+    'Thank you for reviewing the movie. There is a movie named "(.*)". Have you watched it?':
+        'Thank you for reviewing the movie. There is a movie named "(.*)". Have you watched it?',
+    'Thank you for reviewing the movie. Have you watched "(.*)"? It can be a good recommendation.':
+        'Thank you for reviewing the movie. Have you watched "(.*)"\? '
+        'It can be a good recommendation.',
+    'Thank you for your feedback. Have you watched "(.*)"? It can be a good recommendation.':
+        'Thank you for your feedback. Have you watched "(.*)"\? It can be a good recommendation.',
     "You should try (.*)!": "You should try (.*)!",
     "There's also (.*)!": "There's also (.*)!",
     "Also check out (.*)!": "Also check out (.*)!",
@@ -351,7 +361,8 @@ RESPONSE_TEMPLATES_AC = {
         "I don't remember any. can you please give me a suggestion of any interesting movie?",
         "ok. In that case can you suggest me a movie that many people have searched for",
         "i want from 2018 or 2019 movie",
-        "wow. that sounds interesting. I can't wait to watch it. can you please remind me tonight about the movie?"
+        "wow. that sounds interesting. I can't wait to watch it. can you please remind me "
+        "tonight about the movie?"
     ],
     "Expand": [
         "I like the movie because it has romantic and raw at the same time",

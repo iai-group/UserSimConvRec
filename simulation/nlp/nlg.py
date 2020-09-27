@@ -15,11 +15,12 @@ class NLG(ABC):
         pass
 
     @abstractmethod
-    def generate_response_text(self, response):
+    def generate_response_text(self, intent, arguments=None):
         """Initializes any necessary components.
 
         Args:
-            response: agent response
+            intent: agent intent
+            arguments:
 
         Returns:
             a string for user utterance

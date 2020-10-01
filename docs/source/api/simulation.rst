@@ -9,6 +9,7 @@ Subpackages
 
    simulation.nlp
    simulation.telegram
+   simulation.user
 
 Module contents
 ---------------

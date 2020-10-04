@@ -18,7 +18,6 @@ In: Proceedings of 26th SIGKDD Conference on Knowledge Discovery and Data Mining
    usage
    architecture
    Python package documentation <api/simulation>
-   Python package documentation <api/modules>
    contact
 
 

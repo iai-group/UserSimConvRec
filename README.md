@@ -8,7 +8,8 @@ This repository contains resources developed within the following paper:
 
 ## Simulated Framework
 
-![Illustration of simulation](https://github.com/iai-group/UserSimConvRec/blob/master/data/simulator_anatomy.png)
+![Illustration of simulation](https://github.com/iai-group/UserSimConvRec/blob/master/data/simulator_anatomy.png){width=250px}
+
 
 ### Simulated User
 

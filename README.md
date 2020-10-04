@@ -8,10 +8,12 @@ This repository contains resources developed within the following paper:
 
 ## Simulated Framework
 
-![Illustration of simulation](https://github.com/iai-group/UserSimConvRec/blob/master/data/simulator_anatomy.png){width=250px}
+![Illustration of simulation](https://github.com/iai-group/UserSimConvRec/blob/master/data/simulator_anatomy.png)
 
 
 ### Simulated User
+
+The simulated user consists of the following main components, which are natural language understanding, natural language generation, and response generation. 
 
 #### Natural Language Understanding (NLU)
 We use retrieve-based NLU, see [here](https://github.com/iai-group/UserSimConvRec/blob/master/simulation/nlp/movies/movies_nlu.py) for more details.
@@ -19,10 +21,11 @@ We use retrieve-based NLU, see [here](https://github.com/iai-group/UserSimConvRe
 #### Natural Language Generation (NLG)
 We use template-based NLG, see [here](https://github.com/iai-group/UserSimConvRec/blob/master/simulation/nlp/movies/movies_nlu.py) for more details
 
-#### Iteratction Model
+#### Response Generation
+##### Iteratction Model
 xxx
 
-#### Preference Model
+##### Preference Model
 
 * To enable the preferece model of the simualted users, we utilize the MovieLens dataset (Please download the movieLens dataset [here](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data) and put under the folder of `data`). 
 
@@ -40,6 +43,9 @@ In this paper, we investigate three movie chat bots like `And chill`, `movie bot
 
 In this code base, we only provide the implementation for `jmrs1' given the license restrictions.
 
+## Run
+
+``python3 -m xx``
 
 ## Citation
 ```

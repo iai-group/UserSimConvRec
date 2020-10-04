@@ -6,7 +6,14 @@ This repository contains resources developed within the following paper:
 
 > S. Zhang and K. Balog. Evaluating Conversational Recommender Systems via User Simulation. In: *Proceedings of 26th SIGKDD Conference on Knowledge Discovery and Data Mining*, August 22 - 27, 2020 - San Diego, CA - USA..
 
-## Simulated Users
+## Simulated Framework
+
+![xx](https://github.com/iai-group/UserSimConvRec/blob/master/data/simulator_anatomy.pdf)
+
+### NLU
+xx
+### NLG
+xx
 
 ### Preference Model
 
@@ -14,7 +21,7 @@ This repository contains resources developed within the following paper:
 
 * The `simulation/user/user_generator.py` aims to generate the simulated perference model with PKG.
 
-## Bot
+## Conversational Agent
 
 In this paper, we investigate there movie chat bots like and&chill, movie bot, and jmrs1.
 

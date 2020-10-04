@@ -6,19 +6,26 @@ This repository contains resources developed within the following paper:
 
 > S. Zhang and K. Balog. Evaluating Conversational Recommender Systems via User Simulation. In: *Proceedings of 26th SIGKDD Conference on Knowledge Discovery and Data Mining*, August 22 - 27, 2020 - San Diego, CA - USA..
 
-## Data
+## Simulated Users
 
-Download the movieLen dataset [here](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data) and put under the folder of `data`
+### Preference Model
+
+* To enable the preferece model of the simualted users, we utilize the MovieLens dataset (Please download the movieLens dataset [here](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data) and put under the folder of `data`). 
+
+* The `simulation/user/user_generator.py` aims to generate the simulated perference model with PKG.
 
 ## Bot
 
-In this paper, we investigate serveral movie chat bots like movie bot, and chill and jmrs.
+In this paper, we investigate there movie chat bots like and&chill, movie bot, and jmrs1.
 
-* jmrs is provided in `simulation/bot`.
+* [And chill](http://www.andchill.io/) is a single-purpose, consumer-oriented chatbot that a user can send messages to on Facebook and ask for a Netflix recommendation. After answering a few questions such as a liked movie and the reason why liking it, the agent sends movie recommendations based on the user’s preferences. Given the access restrictions, we do not provide the wrapper for Andchill.
 
-* Given the access restrictions, we do not provide the wrapper for Andchill.
+* [Kelly Movie Bot](https://github.com/Sundar0989/Movie_Bot) is a simple bot that answers questions about a specific movie, such as rating, genre, and can also recommend similar movies. The underlying data collection is the Kaggle Movies Recommender System dataset,4 which is based on the MovieLens dataset. The natural language components utilize. Follow this [link](https://github.com/Sundar0989/Movie_Bot) to set up the bot for your own interest. The workspace file for training the agent on IBM lies `data/IBM_workspace.json`.
 
-* Movie bot: Follow this [link](https://github.com/Sundar0989/Movie_Bot) to set up the bot for your own interest. The workspace file for training the agent on IBM lies `data/IBM_workspace.json`.
+* [jmrs1](https://github.com/iai-group/UserSimConvRec/tree/master/simulation/bot/jmrs1) was developed by us. It has been provided in `simulation/bot`. This is the meta version of [IAI Movie Bot](https://github.com/iai-group/moviebot), which is described in a demo paper that is to appear at CIKM'20 (see [arXiv version](https://arxiv.org/abs/2009.03668)).
+
+
+
 
 ## Citation
 ```
@@ -32,6 +39,16 @@ In this paper, we investigate serveral movie chat bots like movie bot, and chill
   keywords = {conversational recommendation, user simulation, conversational information access},
   location = {Virtual Event, CA, USA},
   series = {KDD '20}
+}
+```
+To leverage bot `jmrs1`, please cite:
+```
+@inproceedings{Habib:2020:IMC,
+	author = {Habib, Javeria and Zhang, Shuo and Balog, Krisztian},
+	title = {IAI {MovieBot}: {A} Conversational Movie Recommender System},
+	year = {2020},
+	booktitle = {Proceedings of the 29th ACM International Conference on Information and Knowledge Management},
+	series = {CIKM '20}
 }
 ```
 

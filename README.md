@@ -8,12 +8,16 @@ This repository contains resources developed within the following paper:
 
 ## Simulated Framework
 
-![xx](https://github.com/iai-group/UserSimConvRec/blob/master/data/simulator_anatomy.pdf)
+![Illustration of simulation](https://github.com/iai-group/UserSimConvRec/blob/master/data/simulator_anatomy.png)
 
 ### NLU
-xx
+We use retrieve-based NLU, see [here](https://github.com/iai-group/UserSimConvRec/blob/master/simulation/nlp/movies/movies_nlu.py) for more details.
+
 ### NLG
-xx
+We use template-based NLG, see [here](https://github.com/iai-group/UserSimConvRec/blob/master/simulation/nlp/movies/movies_nlu.py) for more details
+
+### Iteratction Model
+xxx
 
 ### Preference Model
 
@@ -23,7 +27,7 @@ xx
 
 ## Conversational Agent
 
-In this paper, we investigate there movie chat bots like and&chill, movie bot, and jmrs1.
+In this paper, we investigate three movie chat bots like `And chill`, `movie bot`, and `jmrs1`.
 
 * [And chill](http://www.andchill.io/) is a single-purpose, consumer-oriented chatbot that a user can send messages to on Facebook and ask for a Netflix recommendation. After answering a few questions such as a liked movie and the reason why liking it, the agent sends movie recommendations based on the user’s preferences. Given the access restrictions, we do not provide the wrapper for Andchill.
 
@@ -31,7 +35,7 @@ In this paper, we investigate there movie chat bots like and&chill, movie bot, a
 
 * [jmrs1](https://github.com/iai-group/UserSimConvRec/tree/master/simulation/bot/jmrs1) was developed by us. It has been provided in `simulation/bot`. This is the meta version of [IAI Movie Bot](https://github.com/iai-group/moviebot), which is described in a demo paper that is to appear at CIKM'20 (see [arXiv version](https://arxiv.org/abs/2009.03668)).
 
-
+In this code base, we only provide the implementation for `jmrs1' given the license restrictions.
 
 
 ## Citation

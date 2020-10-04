@@ -10,22 +10,24 @@ This repository contains resources developed within the following paper:
 
 ![Illustration of simulation](https://github.com/iai-group/UserSimConvRec/blob/master/data/simulator_anatomy.png)
 
-### NLU
+### Simulated User
+
+#### Natural Language Understanding (NLU)
 We use retrieve-based NLU, see [here](https://github.com/iai-group/UserSimConvRec/blob/master/simulation/nlp/movies/movies_nlu.py) for more details.
 
-### NLG
+#### Natural Language Generation (NLG)
 We use template-based NLG, see [here](https://github.com/iai-group/UserSimConvRec/blob/master/simulation/nlp/movies/movies_nlu.py) for more details
 
-### Iteratction Model
+#### Iteratction Model
 xxx
 
-### Preference Model
+#### Preference Model
 
 * To enable the preferece model of the simualted users, we utilize the MovieLens dataset (Please download the movieLens dataset [here](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data) and put under the folder of `data`). 
 
 * The `simulation/user/user_generator.py` aims to generate the simulated perference model with PKG.
 
-## Conversational Agent
+### Conversational Agent
 
 In this paper, we investigate three movie chat bots like `And chill`, `movie bot`, and `jmrs1`.
 

@@ -7,6 +7,7 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
+   simulation.bot
    simulation.nlp
    simulation.telegram
    simulation.user

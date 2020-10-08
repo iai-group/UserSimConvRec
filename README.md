@@ -45,7 +45,13 @@ In this code base, we only provide the implementation for `jmrs1' given the lice
 
 ## Run
 
-``python3 -m xx``
+1. ``Git clone https://github.com/iai-group/UserSimConvRec.git``
+
+2. Download `ratings.csv' and `movies_metadata.csv' from https://www.kaggle.com/rounakbanik/the-movies-dataset and place them in `data` folder
+
+3. Run ``python3 data/data_pre.py``
+
+4. Run ``python3 -m simulation.dialog.conv_man``
 
 ## Citation
 ```

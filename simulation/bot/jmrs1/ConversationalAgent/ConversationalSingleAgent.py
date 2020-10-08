@@ -11,14 +11,14 @@ limitations under the License.
 
 __author__ = "Alexandros Papangelis"
 
-from code.bot.jmrs1.DialogueManagement import DialogueManager
-from code.bot.jmrs1.Utilities.DialogueEpisodeRecorder import DialogueEpisodeRecorder
-from code.bot.jmrs1.Utilities.DialogueEpisodeRecorder import DialogueConversationRecorder
-from code.bot.jmrs1.Domain import Ontology, DataBase
-from code.bot.jmrs1.NLU.MovieNLU import MovieNLU
-from code.bot.jmrs1.NLG.MovieNLG import MovieNLG
-from code.bot.jmrs1.Dialogue.Action import DialogueAct
-from code.telegram.balog_bot import *
+from simulation.bot.jmrs1.DialogueManagement import DialogueManager
+from simulation.bot.jmrs1.Utilities.DialogueEpisodeRecorder import DialogueEpisodeRecorder
+from simulation.bot.jmrs1.Utilities.DialogueEpisodeRecorder import DialogueConversationRecorder
+from simulation.bot.jmrs1.Domain import Ontology, DataBase
+from simulation.bot.jmrs1.NLU.MovieNLU import MovieNLU
+from simulation.bot.jmrs1.NLG.MovieNLG import MovieNLG
+from simulation.bot.jmrs1.Dialogue.Action import DialogueAct
+from simulation.telegram.balog_bot import *
 
 from copy import deepcopy
 

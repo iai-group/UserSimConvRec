@@ -11,8 +11,8 @@ limitations under the License.
 
 __author__ = "Alexandros Papangelis"
 
-from code.bot.jmrs1.Domain import Ontology
-from code.bot.jmrs1.Dialogue.Action import DialogueAct, DialogueActItem, Operator
+from simulation.bot.jmrs1.Domain import Ontology
+from simulation.bot.jmrs1.Dialogue.Action import DialogueAct, DialogueActItem, Operator
 
 from copy import deepcopy
 

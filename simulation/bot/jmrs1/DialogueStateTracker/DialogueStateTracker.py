@@ -11,11 +11,11 @@ limitations under the License.
 
 __author__ = "Alexandros Papangelis"
 
-from code.bot.jmrs1.Dialogue.State import SlotFillingDialogueState
-from code.bot.jmrs1.Dialogue.State import Context
+from simulation.bot.jmrs1.Dialogue.State import SlotFillingDialogueState
+from simulation.bot.jmrs1.Dialogue.State import Context
 from abc import ABC, abstractmethod
-from code.bot.jmrs1.Domain.Ontology import Ontology
-from code.bot.jmrs1.Domain.DataBase import DataBase, SQLDataBase, JSONDataBase
+from simulation.bot.jmrs1.Domain.Ontology import Ontology
+from simulation.bot.jmrs1.Domain.DataBase import DataBase, SQLDataBase, JSONDataBase
 from copy import deepcopy
 
 """

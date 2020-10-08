@@ -11,13 +11,13 @@ limitations under the License.
 
 __author__ = "Alexandros Papangelis"
 
-from code.bot.jmrs1.Dialogue.Action import DialogueAct, DialogueActItem, Operator
-from code.bot.jmrs1.DialogueStateTracker.DialogueStateTracker import MovieStateTracker
+from simulation.bot.jmrs1.Dialogue.Action import DialogueAct, DialogueActItem, Operator
+from simulation.bot.jmrs1.DialogueStateTracker.DialogueStateTracker import MovieStateTracker
 
-from code.bot.jmrs1.DialogueManagement.DialoguePolicy.HandcraftedPolicy import \
+from simulation.bot.jmrs1.DialogueManagement.DialoguePolicy.HandcraftedPolicy import \
     HandcraftedPolicy
-from code.bot.jmrs1.Domain.Ontology import Ontology
-from code.bot.jmrs1.Domain.DataBase import DataBase, SQLDataBase, JSONDataBase
+from simulation.bot.jmrs1.Domain.Ontology import Ontology
+from simulation.bot.jmrs1.Domain.DataBase import DataBase, SQLDataBase, JSONDataBase
 
 from copy import deepcopy
 

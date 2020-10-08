@@ -17,8 +17,8 @@ DIALOGUE:
 
   domain: Movie
 
-  ontology_path: /Users/sure/Documents/Python/github/iaia/sigir2020-usersim/code/bot/jmrs1/Data/movies-rules.json
-  db_path: /Users/sure/Documents/Python/github/iaia/sigir2020-usersim/code/bot/jmrs1/Data/movies-dbase.db
+  ontology_path: /simulation/bot/jmrs1/Data/movies-rules.json
+  db_path: /simulation/bot/jmrs1/Data/movies-dbase.db
 
 AGENT_0:
   role: system

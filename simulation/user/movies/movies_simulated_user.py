@@ -463,7 +463,7 @@ def file_process(dialogue_file="1224_ms.json"):
             label = "MISSING"
         return label
 
-    diags = json.load(open(os.path.join("", dialogue_file)))
+    diags = json.load(open(dialogue_file))
     agenda_list = [[i[2] for i in diag if i[0] == USER_TAG]
                    for _, diag in diags.items()]  # [[user agenda list]]
     agenda_stat = {}  # {user_intent: {next_user_intent: occurrence}}

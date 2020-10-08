@@ -26,3 +26,10 @@ class Bot(ABC):
 
         """
         pass
+
+class Botbot(Bot):
+    def __init__(self):
+        super(Bot, self).__init__()
+
+    def generate_response(self, text):
+        return ""

@@ -5,19 +5,21 @@ ConversationManager
 Author: Shuo Zhang, Krisztian Balog
 """
 
-from code.bot.jmrs1.ConversationalAgent.ConversationalSingleAgent import \
-    ConversationalSingleAgent
-from code.nlp.movies.movies_nlg import RESPONSE_TEMPLATES_MS
-from code.user.movies.movies_simulated_user import MovieSimulatedUser
-from code.user.human_user import HumanUser
-from code.bot.and_chill import Botbot
-import json
 import configparser
+import json
+import os.path
 import random
 import sys
-import os.path
 import time
+from pprint import pprint
 import yaml
+from simulation.bot.jmrs1.ConversationalAgent.ConversationalSingleAgent import \
+    ConversationalSingleAgent
+from simulation.nlp.movies import RESPONSE_TEMPLATES_MS
+from simulation.user.movies.movies_simulated_user import MovieSimulatedUser
+from simulation.user.human_user import HumanUser
+from simulation.bot.bot import Botbot
+
 
 
 USER_TAG, AGENT_TAG = "user", "agent"
@@ -42,6 +44,8 @@ class ConversationManager:
         """
         ca = ConversationalSingleAgent(config)
         ca.initialize()
+
+        print('=======================================\n')
 
         last_update_id = None
         while True:
@@ -73,8 +77,18 @@ class ConversationManager:
                 with open(str(self._chat)+".json", "w", encoding="utf-8") as f:
                     json.dump(self._history, f, indent=2)
 
+
     def run_ms(self, config, age_mode="our", persona=True):
-        """Let the manager run and monitor the conversations!"""
+        """Let the manager run and monitor the conversations!
+
+        Args:
+            config:
+            age_mode: qfra/qrfa_test/our
+            persona: persona of simulator
+
+        Returns: Dialogue record
+
+        """
         result = {
             "dialog": []
         }
@@ -104,7 +118,8 @@ class ConversationManager:
                 system_utterance = ca.continue_dialogue(user_utterance)
 
             time.sleep(1)
-            user_utterance, sys_intent = self._user.generate_response(system_utterance, persona=persona)
+            user_utterance, sys_intent = \
+                self._user.generate_response(system_utterance, persona=persona)
             print("System: {}.    [{}]".format(system_utterance, sys_intent))
             result["dialog"].append([AGENT_TAG, system_utterance, sys_intent[0]])
             print("-----------------------------------------------------------")
@@ -113,17 +128,19 @@ class ConversationManager:
             self._history.append(user_utterance)
             result["dialog"].append([USER_TAG, user_utterance, self._user._current_intent])
         result["persona"] = {"persona": self._user.persona, "preferences": self._user.preferences}
-        from pprint import pprint
         pprint(result)
         return result
 
 
 def arg_parse(args=None):
-    """
-    This function will parse the configuration file that was provided as a
+    """This function will parse the configuration file that was provided as a
     system argument into a dictionary.
 
-    :return: a dictionary containing the parsed config file.
+    Args:
+        args: config
+
+    Returns: a dictionary containing the parsed config file.
+
     """
 
     cfg_parser = None
@@ -180,8 +197,8 @@ if __name__ == "__main__":
         user = HumanUser()  # change here to use a simulated user
         bot = Botbot()
         conv_man = ConversationManager(user, bot)
-        args = ['','-config', os.path.join(os.path.abspath("./.."),
-                "kdd2020-userSim/code/bot/jmrs1/config/movies_text.yaml")]
+        args = ['', '-config', os.path.join(os.path.abspath("."),
+                                            "simulation/bot/jmrs1/config/movies_text.yaml")]
         args = arg_parse(args)
         cfg_parser = args['cfg_parser']
         dialogues = args['dialogues']
@@ -189,10 +206,12 @@ if __name__ == "__main__":
         conv_man.run_single_agent(cfg_parser)
     else:
         hist = []
-        user = MovieSimulatedUser("code/data/1224_ms.json", RESPONSE_TEMPLATES_MS, "ms")  # change here to use a simulated user
+        # change here to use a simulated user
+        user = MovieSimulatedUser("data/1224_ms.json", RESPONSE_TEMPLATES_MS, "ms")
         bot = Botbot()
         conv_man = ConversationManager(user, bot)
-        args = ['','-config', os.path.join(os.path.abspath("./.."), "kdd2020-userSim/code/bot/jmrs1/config/movies_text.yaml")]
+        args = ['', '-config', os.path.join(os.path.abspath("."),
+                                            "simulation/bot/jmrs1/config/movies_text.yaml")]
         args = arg_parse(args)
         cfg_parser = args['cfg_parser']
         interaction_mode = args['interaction_mode']

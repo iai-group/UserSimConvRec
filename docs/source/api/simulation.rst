@@ -8,6 +8,7 @@ Subpackages
    :maxdepth: 4
 
    simulation.bot
+   simulation.dialog
    simulation.nlp
    simulation.telegram
    simulation.user

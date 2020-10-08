@@ -23,7 +23,7 @@ We use template-based NLG, see [here](https://github.com/iai-group/UserSimConvRe
 
 #### Response Generation
 ##### Iteratction Model
-xxx
+We support QRFA and CIR6 models with PKG.
 
 ##### Preference Model
 
@@ -47,7 +47,7 @@ In this code base, we only provide the implementation for `jmrs1' given the lice
 
 1. ``Git clone https://github.com/iai-group/UserSimConvRec.git``
 
-2. Download `ratings.csv' and `movies_metadata.csv' from https://www.kaggle.com/rounakbanik/the-movies-dataset and place them in `data` folder
+2. Download `ratings.csv` and `movies_metadata.csv` from [here](https://www.kaggle.com/rounakbanik/the-movies-dataset) and place them in `data` folder
 
 3. Run ``python3 data/data_pre.py``
 

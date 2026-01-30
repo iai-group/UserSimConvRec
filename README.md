@@ -1,6 +1,13 @@
 # Evaluating Conversational Recommender Systems via User Simulation
 
 [![Documentation Status](https://readthedocs.org/projects/usersimconvrec/badge/?version=latest)](https://usersimconvrec.readthedocs.io/en/latest/?badge=latest)
+![Status: Unmaintained](https://img.shields.io/badge/status-unmaintained-red)
+
+
+> ⚠️ **This project is no longer maintained.**
+>
+> Development has moved to **[UserSimCRS](https://github.com/iai-group/UserSimCRS)**.
+
 
 This repository contains resources developed within the following paper:
 
